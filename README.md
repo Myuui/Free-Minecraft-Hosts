@@ -16,5 +16,5 @@ Have you ever wanted to play with your friends *(if you have any)* on a private 
 |freemcserver.net|1.5 GB (+200 if Forge)|Unlimited|2.5 GHz (AMD EPYC 7502P)|10 GB|USA :us: / Germany :de: / France :fr:|[🌐](https://freemcserver.net/)|Register to create server|
 |server.pro|1 GB|20|2.4 GHz (Intel Xenon E3)|5 GB|France :fr: / Canada :canada:|[🌐](https://server.pro/create)|Register to create server|
 |mcprohosting.com|2 GB|5|2.5 GHz (Intel Xeon E5-2620)|❔|[List](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html)|[🌐](https://mcprohosting.com/freebee)|Currently out of stock on this item so orders for it have been suspended until more stock is available|
-|ploudos.com|2 GB|255|3.5GHz (AMD EPYC 7763)|6 GB|Germany :de:|[🌐](https://ploudos.com/server/)|Register to create server|
+|ploudos.com|2 GB|255|3.5GHz (AMD EPYC 7763)|6 GB|Germany :de:|[🌐](https://ploudos.com/)|Register to create server|
 |--|--|--|--|--|--|--|--|
