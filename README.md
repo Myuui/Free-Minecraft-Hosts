@@ -13,11 +13,11 @@ Have you ever wanted to play with your friends *(if you have any)* on a private 
 |falixnodes.net|5 GB|Unlimited|3.4 GHz (AMD Ryzen 9 5950X)|15 GB|Germany :de: / Finland :finland:|[🌐](https://falixnodes.net/)|❌|Custom IP address, Modded servers allowed, Scheduled backups, Scheduled tasks, MySQL database, Technical support.|
 |minefort.com|1 GB|20|❔|10 GB|❔|[🌐](https://minefort.com/)|❌|--|
 |magmanode.com|2,5 GB|Unlimited|3.6GHz (AMD Ryzen 7 3700X)|5 GB|Germany :de:|[🌐](https://magmanode.com/order)|❔|--|
-|freemcserver.net|1.5 GB (+200 if Forge)|Unlimited|2.5 GHz (AMD EPYC 7502P)|10 GB|USA :us: / Germany :de: / France :fr:|[🌐](https://freemcserver.net/)|❌|--|
-|server.pro|1 GB|20|2.4 GHz (Intel Xenon E3)|5 GB|France :fr: / Canada :canada:|[🌐](https://server.pro/create)|❌|--|
-|mcprohosting.com|2 GB|5|2.5 GHz (Intel Xeon E5-2620)|❔|[List](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html)|[🌐](https://mcprohosting.com/freebee)|❔|Currently out of stock on this item so orders for it have been suspended until more stock is available|
+|freemcserver.net|1.5 GB (+200 if Forge)|Unlimited|3.35 GHz (AMD EPYC 7502P)|10 GB|USA :us: / Germany :de: / France :fr:|[🌐](https://freemcserver.net/)|❌|--|
+|server.pro|1 GB|20|3.7 GHz (Intel Xenon E3)|5 GB|France :fr: / Canada :canada:|[🌐](https://server.pro/create)|❌|--|
+|mcprohosting.com|2 GB|5|3.0 GHz (Intel Xeon E5-2620)|❔|[List](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html)|[🌐](https://mcprohosting.com/freebee)|❔|Currently out of stock on this item so orders for it have been suspended until more stock is available|
 |ploudos.com|2 GB|255|3.5GHz (AMD EPYC 7763)|6 GB|1.  Germany :de:|[🌐](https://ploudos.com/server/)|❌|--|
 |private-hosting.eu|2 GB|Unlimited|❔|Unlimited|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|--|
-|skynode.pro|2 GB|--|--|5 BG|--|[🌐](https://www.skynode.pro/free-hosting/minecraft)|❌|--|
+|skynode.pro|2 GB|Unlimited|4.4 GHz (AMD Ryzen 7 3700X)|5 BG|Germany :de:|[🌐](https://www.skynode.pro/free-hosting/minecraft)|❌|--|
 |--|--|--|--|--|--|--|--|--|
 
