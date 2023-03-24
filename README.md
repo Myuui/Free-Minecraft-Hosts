@@ -10,7 +10,7 @@ Have you ever wanted to play with your friends *(if you have any)* on a private 
 |aternos.org|4 GB|Unlimited|3.9 GHz (Intel i7/Xeon)|4 GB|Germany❔ :de:|[🌐](https://aternos.org/go/)|❌|Queue system|
 |minehut.com|1 GB|10|❔ (bad imo)|Unlimited|USA :us:|[🌐](https://minehut.com/)|❌|Gamemodes like Box, Gens, Skyblock etc. Play on Java or Bedrock. Friend controls and IP protection|
 |scalacube.com|6 GB|Unlimited|3.4 GHz (Intel/ AMD Xeon ❔)|30 GB|Canada :canada: / France :fr: / United Kingdom :uk: / Australia :australia: / Singapore :singapore:|[🌐](https://scalacube.com/hosting/server/minecraft/constructor/public)|❌|❌ Bad panel|
-|falixnodes.net|5 GB|Unlimited|3.4 GHz (AMD Ryzen 9 5950X)|15 GB|Germany :de: / Finland :finland:|[🌐](https://falixnodes.net/)|❌|Custom IP address, Modded servers allowed, Scheduled backups, Scheduled tasks, MySQL database, Technical support.|
+|falixnodes.net|5 GB|Unlimited|4.9 GHz (AMD Ryzen 9 5950X)|15 GB|Germany :de: / Finland :finland:|[🌐](https://falixnodes.net/)|❌|Custom IP address, Modded servers allowed, Scheduled backups, Scheduled tasks, MySQL database, Technical support.|
 |minefort.com|1 GB|20|❔|10 GB|❔|[🌐](https://minefort.com/)|❌|--|
 |magmanode.com|2,5 GB|Unlimited|3.6GHz (AMD Ryzen 7 3700X)|5 GB|Germany :de:|[🌐](https://magmanode.com/order)|❔|--|
 |freemcserver.net|1.5 GB (+200 if Forge)|Unlimited|3.35 GHz (AMD EPYC 7502P)|10 GB|USA :us: / Germany :de: / France :fr:|[🌐](https://freemcserver.net/)|❌|--|
