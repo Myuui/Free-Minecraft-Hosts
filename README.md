@@ -23,7 +23,7 @@ Have you ever wanted to play with your friends *(if you have any)* on a private 
 |minehost.io|❔|❔|❔|❔|❔|[🌐](https://www.minehost.io/)|✅|❌|--|
 |godlike.host|2 GB|Unlimited|4.7 GHz (Ryzen 9 3950X)|10 GB|Ukraine :ukraine:|[🌐](https://godlike.host/minecraft-free-server-en/)|❌|✅|High-quality gaming support is provided only for paid plans|
 |cloud.oracle.com|24 GB|Unlimited|❔|20 GB|USA :us: / Canada :canada:|[🌐](https://www.oracle.com/cloud/free/)|❌|✅ *good luck*|Minecraft Not Installed. No Game Panel. [Documentation here](https://blogs.oracle.com/developers/post/how-to-set-up-and-run-a-really-powerful-free-minecraft-server-in-the-cloud)|
-|vexyhost.com|2 GB|Unlimited|4.5 GHz (AMD Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
+|vexyhost.com|2 GB|Unlimited|4.5 GHz (AMD Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup and protection against DDoS.
 |--|--|--|--|--|--|--|--|--|
 
 
