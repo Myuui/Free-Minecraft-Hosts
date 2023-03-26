@@ -25,6 +25,4 @@ Have you ever wanted to play with your friends *(if you have any)* on a private 
 |cloud.oracle.com|24 GB|Unlimited|❔|20 GB|USA :us: / Canada :canada:|✅|[🌐](https://www.oracle.com/cloud/free/)|❌|✅ *good luck*|Minecraft Not Installed. No Game Panel. [Documentation here](https://blogs.oracle.com/developers/post/how-to-set-up-and-run-a-really-powerful-free-minecraft-server-in-the-cloud)|
 |vexyhost.com|2 GB|Unlimited|4.5 GHz (AMD Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
 |linenodes.fun|4 GB|Unlimited|3.8 GHz (AMD Ryzen Pro 1700X)|8.5 GB|[List](https://paste.ofcode.org/XZFWcAUj4KFTSBCzPbkUyn)|✅|[🌐](https://linenodes.fun/eng/index.html)|❌|✅|High-quality and gaming support is provided for free and paid plans.
-|--|--|--|--|--|--|--|--|--|
-
-
+|eugamehost.com|2 GB|35|5.80 GHz (Intel i9-13900K)|Unlimited|Germany :de:|✅|[🌐](https://www.eugamehost.com/minecraft-server-hosting)|❌|✅|Use 12Tbit DDoS protection from Path.net. Always on and always free. Use AMP panel ie modern version of McMyAdmin.
