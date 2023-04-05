@@ -1,3 +1,4 @@
+
 # Free Minecraft Hosts List!
 
 Have you ever wanted to play with your friends *(if you have any)* on a private server, wanted to have one, and then found out that you have to pay **5€ per month** for it?
@@ -27,8 +28,9 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24
 ![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg)3.2 :star:|linenodes.fun|4 GB|Unlimited|3.8 GHz (AMD Ryzen Pro 1700X)|8.5 GB|[List](https://paste.ofcode.org/XZFWcAUj4KFTSBCzPbkUyn)|✅|[🌐](https://linenodes.fun/eng/index.html)|❌|✅|High-quality and gaming support is provided for free and paid plans.
 ![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg)4.6 :star:|eugamehost.com|2 GB|35|5.80 GHz (Intel i9-13900K)|Unlimited|Germany :de:|✅|[🌐](https://www.eugamehost.com/minecraft-server-hosting)|❌|✅|Use 12Tbit DDoS protection from Path.net. Always on and always free. Use AMP panel ie modern version of McMyAdmin.
 |![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg)4.2 :star:|space-hosting.it|1 GB|❔|4.9 GHz (Ryzen 9 5950x)|4 GB|Lithuania :lithuania: / Italy :it:|❔|[🌐](https://www.space-hosting.it/Minecraft-Server-Hosting/)|❌|✅|--|
+|![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg)? :star:|pockethost.app|8 GB|Unlimited|? GHz (AWS Graviton3)|15 GB|Ireland :ireland: / USA :us: / India :india:|✅|[🌐](https://pockethost.app/en/)|❌|✅|--|
 |--|--|--|--|--|--|--|--|--|--|--|--|
 
-###### *List updated on 1/April/2023*
+###### *List updated on 5/April/2023*
 
 
