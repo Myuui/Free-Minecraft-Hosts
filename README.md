@@ -28,8 +28,25 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24
 ![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg)3.2 :star:|linenodes.fun|4 GB|Unlimited|3.8 GHz (AMD Ryzen Pro 1700X)|8.5 GB|[List](https://paste.ofcode.org/XZFWcAUj4KFTSBCzPbkUyn)|✅|[🌐](https://linenodes.fun/eng/index.html)|❌|✅|High-quality and gaming support is provided for free and paid plans.
 ![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg)4.6 :star:|eugamehost.com|2 GB|35|5.80 GHz (Intel i9-13900K)|Unlimited|Germany :de:|✅|[🌐](https://www.eugamehost.com/minecraft-server-hosting)|❌|✅|Use 12Tbit DDoS protection from Path.net. Always on and always free. Use AMP panel ie modern version of McMyAdmin.
 |![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg)4.2 :star:|space-hosting.it|1 GB|❔|4.9 GHz (Ryzen 9 5950x)|4 GB|Lithuania :lithuania: / Italy :it:|❔|[🌐](https://www.space-hosting.it/Minecraft-Server-Hosting/)|❌|✅|--|
-|![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg)? :star:|pockethost.app|8 GB|Unlimited|? GHz (AWS Graviton3)|15 GB|Ireland :ireland: / USA :us: / India :india:|✅|[🌐](https://pockethost.app/en/)|❌|✅|On-demand servers for running your server hourly. Or server subscriptions to keep your server running 24/7|
+|![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg)? :star:|pockethost.app|8 GB|Unlimited|? GHz (AWS Graviton3)|15 GB|Ireland :ireland: / USA :us: / India :india:|✅|[🌐](https://pockethost.app/en/)|❌|✅|--|
 |--|--|--|--|--|--|--|--|--|--|--|--|
+
+
+
+**Notes:**
+
+-   RAM: The amount of memory allocated to the server.
+-   Slots: The maximum number of players that can join the server at once.
+-   CPU: The processor used to run the server.
+-   Storage: The amount of disk space allocated to the server.
+-   Location: The physical location of the server.
+-   24/7: Indicates whether the server is available all the time.
+-   Link: The URL to visit the hosting provider's website.
+-   Registration: Indicates whether you need to register an account to use the service.
+-   Technical Support: Indicates whether the hosting provider offers technical support.
+-   Notes: Additional information about the hosting provider.
+
+We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
 ###### *List updated on 5/April/2023*
 
