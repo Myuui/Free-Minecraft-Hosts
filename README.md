@@ -43,6 +43,7 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | Ve
 >-   CPU: The processor used to run the server.
 >-   Storage: The amount of disk space allocated to the server.
 >-   Location: The physical location of the server.
+>-   Version Support: The versions supported by the service.
 >-   24/7: Indicates whether the server is available all the time.
 >-   Link: The URL to visit the hosting provider's website.
 >-   Registration: Indicates whether you need to register an account to use the service.
