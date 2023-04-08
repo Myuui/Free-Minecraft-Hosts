@@ -36,20 +36,20 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | Ve
 
 *Version Support coming soon...*
 
-**Notes:**
+>**NOTES:**
+>
+>-   RAM: The amount of memory allocated to the server.
+>-   Slots: The maximum number of players that can join the server at once.
+>-   CPU: The processor used to run the server.
+>-   Storage: The amount of disk space allocated to the server.
+>-   Location: The physical location of the server.
+>-   24/7: Indicates whether the server is available all the time.
+>-   Link: The URL to visit the hosting provider's website.
+>-   Registration: Indicates whether you need to register an account to use the service.
+>-   Technical Support: Indicates whether the hosting provider offers technical support.
+>-   Notes: Additional information about the hosting provider.
 
--   RAM: The amount of memory allocated to the server.
--   Slots: The maximum number of players that can join the server at once.
--   CPU: The processor used to run the server.
--   Storage: The amount of disk space allocated to the server.
--   Location: The physical location of the server.
--   24/7: Indicates whether the server is available all the time.
--   Link: The URL to visit the hosting provider's website.
--   Registration: Indicates whether you need to register an account to use the service.
--   Technical Support: Indicates whether the hosting provider offers technical support.
--   Notes: Additional information about the hosting provider.
-
-We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
+### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
 ###### *List updated on 8/April/2023*
 
