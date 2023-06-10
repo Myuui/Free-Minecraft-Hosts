@@ -35,7 +35,8 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | Ve
 |![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? :star:|forcehost.net|1 GB|2|3.10 GHz (Xeon E5 2630v4)|10 GB|Germany :de: / USA :us:||✅|[🌐](https://my.forcehost.net/app)|❌|✅|Pterodactyl panel since 2020|
 |![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 3.1 :star:|localnodes.eu|4 GB|Unlimited|6.00 GHz (Intel i9-13900KS)|8 GB|Netherlands :netherlands: / France :fr: / Estonia :estonia: / Singapore :singapore:||✅|[🌐](https://localnodes.eu/)|❌|✅|Own hardware, not abused like other Free hosts. No Data losses.|
 |![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg)3.7 :star:|galactiq.net|3 GB|20|3.46 GHz (Intel Xeon X3460)|10 GB|USA :us:||❌|[🌐](https://galactiq.net/)|❌|✅|--|
-|![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg)4.1 :star:|optikservers.com|❔|❔|4.9 GHz (Ryzen 9 5950x)|❔|Germany :de:||✅|--|❌|✅|--|
+|![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg)4.1 :star:|optikservers.com|❔|❔|4.9 GHz (Ryzen 9 5950x)|❔|Germany :de:||✅|[🌐](https://optikservers.com/)|❌|✅|--|
+|![enter image description here](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg)? ⭐|hematitehosting.uk|4 GB|❔|❔|10 GB|Germany 🇩🇪||❔|[🌐](https://hematitehosting.uk/minecraft.html)|❔|❔|Out of Stock (10/June/2023)|
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
 
 *Version Support coming soon...*
@@ -56,6 +57,6 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | Ve
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 5/May/2023*
+###### *List updated on 10/June/2023*
 
 
