@@ -1,4 +1,3 @@
-
 # Free Minecraft Hosts List!
 
  Have you ever wanted to play with your friends *(if you have any)* on a private server, wanted to have one, and then found out that you have to pay **5€ per month** for it?
@@ -6,7 +5,7 @@
 ### Well, I am going to present to you my list of completely free Minecraft hosts just for you.
 <p align="center">  <img src="https://i.imgur.com/rZJwXM2.gif" alt="i love money">  </p>
 
-> ⚠️ **NOTICE:**  I make this list only for Java servers, and not Bedrock. While some services listed may support bedrock, I can't guarantee that they are free, nor confirm the specifications of the servers.
+> ⚠️ **NOTICE:**  I make this list only for Java servers, and not Bedrock. While some services listed may support Bedrock, I can't guarantee that they are free, nor confirm the specifications of the servers.
 
 
 Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | Version Support | 24/7 | Link | No Registering | Technical support | Notes
