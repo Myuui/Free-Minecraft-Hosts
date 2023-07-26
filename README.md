@@ -64,3 +64,15 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
 ###### *List updated on 27/July/2023*
+
+***
+
+This documentation list is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You are free to copy and redistribute this documentation in any medium or format, as long as proper credit is given to Myuui as the original creator. However, you are not allowed to modify, adapt, or create derivative works based on this documentation list.
+
+Any commercial use of this documentation list is strictly prohibited without explicit written permission from Myuui. For any inquiries regarding commercial use or potential modifications, please contact myuui.pro@gmail.com
+
+By accessing or using this documentation list, you agree to abide by the terms of the Creative Commons license mentioned above.
+
+Myuui
+27/07/2023
+
