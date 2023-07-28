@@ -1,5 +1,11 @@
 # Free Minecraft Hosts List!
 
+<div align='center'>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Myuui/Free-Minecraft-Hosts?style=for-the-badge&logo=Github&logoColor=white&color=E3B341) 
+
+</div>
+
  Have you ever wanted to play with your friends *(if you have any)* on a private server, wanted to have one, and then found out that you have to pay **5€ per month** for it?
  
 ### Well, I am going to present to you my list of completely free Minecraft hosts just for you.
