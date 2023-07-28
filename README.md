@@ -11,7 +11,7 @@
 Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24/7 | Link | No Registering | Technical support | Notes
 |--|--|--|--|--|--|--|--|--|--|--|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.3 ⭐ |omgserv.com | 1 GB | 4 | 3.3GHZ (XEON E5-2670) | Unlimited | France :fr: / USA :us: |❌| [🌐](https://www.omgserv.com/en/hosting/minecraft-server/free/) |❌|✅| Out of Stock (8/April/2023)
-![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 2.8 ⭐|aternos.org|4 GB|Unlimited|3.9 GHz (i7/Xeon)|4 GB|Germany❔ :de:|❌|[🌐](https://aternos.org/go/)|❌|✅|Queue system|
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 2.8 ⭐|aternos.org|❔|Unlimited|3.9 GHz (i7/Xeon)|4 GB|Germany❔ :de:|❌|[🌐](https://aternos.org/go/)|❌|✅|Queue system|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.3 ⭐|minehut.com|1 GB|10|❔ (bad imo)|Unlimited|USA :us:|❌|[🌐](https://minehut.com/)|❌|✅|Very bad CPU apparently|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.3 ⭐|scalacube.com|6 GB|Unlimited|3.4 GHz (Intel/ AMD Xeon ❔)|30 GB|Canada :canada: / France :fr: / United Kingdom :uk: / Australia :australia: / Singapore :singapore:|❔|[🌐](https://scalacube.com/hosting/server/minecraft/constructor/public)|❌|✅|Bad panel|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.5 ⭐|falixnodes.net|5 GB|Unlimited|3.4 GHz (AMD Ryzen 9 5950X)|15 GB|Germany :de: / Finland :finland:|❌|[🌐](https://falixnodes.net/)|❌|✅|Custom IP address, Modded servers allowed, Scheduled backups, Scheduled tasks, MySQL database, Technical support.|
