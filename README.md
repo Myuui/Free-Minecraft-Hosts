@@ -6,7 +6,9 @@
 <p align="center">  <img src="https://i.imgur.com/rZJwXM2.gif" alt="i love money">  </p>
 
 > ⚠️ **NOTICE:**  I make this list only for Java servers, and not Bedrock. While some services listed may support Bedrock, I can't guarantee that they are free, nor confirm the specifications of the servers.
-
+>
+> **NOTICE: Wanna add your free Minecraft free hosting service to the list? Contact me on [![Discord](https://img.shields.io/badge/iuuym-7289DA?logo=discord&logoColor=white
+)]()**
 
 Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24/7 | Link | No Registering | Technical support | Notes
 |--|--|--|--|--|--|--|--|--|--|--|--|
