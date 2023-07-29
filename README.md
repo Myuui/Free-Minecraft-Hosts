@@ -54,8 +54,9 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|fps.ms|4 GB|Unlimited|❔|5 GB|Germany :de:|❌|[🌐](https://www.fps.ms/)|❌|✅|New hosting service seeking for feedback.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|sneakyhub.com|4 GB|Unlimited|4.8 GHz (Ryzen 9 5900X)|15 GB|USA :us:|❌|[🌐](https://sneakyhub.com/)|❌|✅|Easy-to-install servers, virtual currency that can be exchanged between friends, offering more possibilities.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|cubeservers.us|3 GB|Unlimited|3.4 GHz(EPYC Serie 7002)|105 GB|Netherlands 🇳🇱|✅|[🌐](https://cubeservers.us/)|❌|✅|Server free for 10 days. Possibility to win events/giveaways for a free month of a plan based on the giveaway. For the 10 days trial, join the official discord server.|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|aerora.net|2 GB|Unlimited|3,3 GHz (Ampere Altra Q80-30)|12 GB|Germany :de:|✅|[🌐](https://aerora.net/)|❌|✅|--|
 
-**Listed servers: 36**
+**Listed servers: 38**
 
 >**NOTES:**
 >
