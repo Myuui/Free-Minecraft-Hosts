@@ -53,8 +53,9 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|unreach.host|1.5 GB|20|3.1 GHz (Neoverse N1)|10 GB|Britain 🇬🇧|✅|[🌐](https://unreach.host/)|✅|✅|New hosting service seeking for feedback. Server creation thru a Minecraft lobby: By joining `unreach.host` and doing `/create <server name>` and it will generate an account with a random password in chat, you'll login on https://panel.unreach.host/ |
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|fps.ms|4 GB|Unlimited|❔|5 GB|Germany :de:|❌|[🌐](https://www.fps.ms/)|❌|✅|New hosting service seeking for feedback.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|sneakyhub.com|4 GB|Unlimited|4.8 GHz (Ryzen 9 5900X)|15 GB|USA :us:|❌|[🌐](https://sneakyhub.com/)|❌|✅|Easy-to-install servers, virtual currency that can be exchanged between friends, offering more possibilities.|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|cubeservers.us|3 GB|Unlimited|3.4 GHz(EPYC Serie 7002)|105 GB|Netherlands 🇳🇱|✅|[🌐](https://cubeservers.us/)|❌|✅|Server free for 10 days. Possibility to win events/giveaways for a free month of a plan based on the giveaway. For the 10 days trial, join the official discord server.|
 
-**Listed servers: 35**
+**Listed servers: 36**
 
 >**NOTES:**
 >
@@ -71,7 +72,7 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 27/July/2023*
+###### *List updated on 29/July/2023*
 
 ***
 
