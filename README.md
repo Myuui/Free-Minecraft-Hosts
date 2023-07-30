@@ -56,7 +56,7 @@ Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|cubeservers.us|3 GB|Unlimited|3.4 GHz(EPYC Serie 7002)|105 GB|Netherlands 🇳🇱|✅|[🌐](https://cubeservers.us/)|❌|✅|Server free for 10 days. Possibility to win events/giveaways for a free month of a plan based on the giveaway. For the 10 days trial, join the official discord server.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|aerora.net|2 GB|Unlimited|3,3 GHz (Ampere Altra Q80-30)|12 GB|Germany :de:|✅|[🌐](https://aerora.net/)|❌|✅|--|
 
-**Listed servers: 38**
+**Listed servers: 37**
 
 >**NOTES:**
 >
