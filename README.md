@@ -56,8 +56,9 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||cubeservers.us|3 GB|Unlimited|3.4 GHz(EPYC Serie 7002)|105 GB|Netherlands 🇳🇱|✅|[🌐](https://cubeservers.us/)|❌|✅|Server free for 10 days. Possibility to win events/giveaways for a free month of a plan based on the giveaway. For the 10 days trial, join the official discord server.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||aerora.net|2 GB|Unlimited|3,3 GHz (Ampere Altra Q80-30)|12 GB|Germany :de:|✅|[🌐](https://aerora.net/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||EmpireNodes|2+ GB|5|3.3 GHz (EPYC 7B12)|5+ GB|France 🇫🇷 / Finland 🇫🇮 / USA 🇺🇸 / Germany :de:|❔|❔|❌|✅|--|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐|❌ (Not available)|WINHEBERG|2 GB|Unlimited|4.8GHz (Ryzen 9 5900x)|10 GB|France 🇫🇷|✅|[🌐](https://winheberg.fr/)|❌|✅|New hosting service seeking for feedback. 24h test offer. French Discord|
 
-**Listed servers: 38**
+**Listed servers: 39**
 
 >**NOTES:**
 >
@@ -75,7 +76,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 29/July/2023*
+###### *List updated on 31/July/2023*
 
 ***
 
