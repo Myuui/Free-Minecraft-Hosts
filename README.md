@@ -11,10 +11,15 @@
 ### Well, I am going to present to you my list of completely free Minecraft hosts just for you.
 <p align="center">  <img src="https://i.imgur.com/rZJwXM2.gif" alt="i love money">  </p>
 
+<div align='center'>
+
+# [EDIT OR ADD A SERVICE ON THIS FORM RIGHT HERE!!!](https://forms.gle/sEfDp2U2VpEuRyyU9)
+
+</div>
+
 > ⚠️ **NOTICE:**  I make this list only for Java servers, and not Bedrock. While some services listed may support Bedrock, I can't guarantee that they are free, nor confirm the specifications of the servers.
 >
-> **NOTICE: Wanna add your free Minecraft free hosting service to the list? Contact me on [![Discord](https://img.shields.io/badge/iuuym-7289DA?logo=discord&logoColor=white
-)]()**
+> 
 
 Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24/7 | Link | No Registering | Technical support | Notes 
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
