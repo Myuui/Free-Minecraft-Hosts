@@ -63,7 +63,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||EmpireNodes|2+ GB|5|3.3 GHz (EPYC 7B12)|5+ GB|France 🇫🇷 / Finland 🇫🇮 / USA 🇺🇸 / Germany :de:|❔|❔|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐|❌ (Not available)|WINHEBERG|2 GB|Unlimited|4.8GHz (Ryzen 9 5900x)|10 GB|France 🇫🇷|✅|[🌐](https://client.cortexnodes.com/)|❌|✅|New hosting service seeking for feedback. 24h test offer. French Discord|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐|Single: 163  Multi: 618|CortexNodes|2+ GB|Unlimited|3.0 GHz (EPYC 7401P)|2+ GB|Germany 🇩🇪|✅|[🌐](https://winheberg.fr/)|❌|✅|--|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐||BoxToPlay|32 GB|Unlimited|4.4 GHz (Ryzen 5 3600X)|Unlimited|France 🇫🇷|❔|[🌐](https://www.boxtoplay.com/en/minecraft-server/free-minecraft-server-hosting)|❌|✅|12h free trial|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐|Single: 296  Multi: 1094|BoxToPlay|32 GB|999|4.4 GHz (Ryzen 5 3600X)|Unlimited|France 🇫🇷|❔|[🌐](https://www.boxtoplay.com/en/minecraft-server/free-minecraft-server-hosting)|❌|✅|12h free trial|
 
 **Listed servers: 41**
 
