@@ -64,8 +64,9 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐|❌ (Not available)|WINHEBERG|2 GB|Unlimited|4.8GHz (Ryzen 9 5900x)|10 GB|France 🇫🇷|✅|[🌐](https://client.cortexnodes.com/)|❌|✅|New hosting service seeking for feedback. 24h test offer. French Discord|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐|Single: 163  Multi: 618|CortexNodes|2+ GB|Unlimited|3.0 GHz (EPYC 7401P)|2+ GB|Germany 🇩🇪|✅|[🌐](https://winheberg.fr/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐|Single: 296  Multi: 1094|BoxToPlay|32 GB|999|4.4 GHz (Ryzen 5 3600X)|Unlimited|France 🇫🇷|❔|[🌐](https://www.boxtoplay.com/en/minecraft-server/free-minecraft-server-hosting)|❌|✅|12h free trial|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐|❌ (Not available)|Redusir|2 GB|Unlimited|❔|4 GB|Germany 🇩🇪 / Singapore :singapore:|❌|[🌐](https://redusir.com/)|❌|✅|--|
 
-**Listed servers: 41**
+**Listed servers: 42**
 
 >**NOTES:**
 >
@@ -83,13 +84,13 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 31/July/2023*
+###### *List updated on 25/August/2023*
 
 ***
 
 This documentation list is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You are free to copy and redistribute this documentation in any medium or format, as long as proper credit is given to Myuui as the original creator. However, you are not allowed to modify, adapt, or create derivative works based on this documentation list.
 
-Any commercial use of this documentation list is strictly prohibited without explicit written permission from Myuui. For any inquiries regarding commercial use or potential modifications, please contact myuui.pro@gmail.com
+Any commercial use of this documentation list is strictly prohibited without explicit written permission from Myuui. For any inquiries regarding commercial use or potential modifications, please contact myuui.pro@proton.me
 
 By accessing or using this documentation list, you agree to abide by the terms of the Creative Commons license mentioned above.
 
