@@ -65,8 +65,9 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐|Single: 163  Multi: 618|CortexNodes|2+ GB|Unlimited|3.0 GHz (EPYC 7401P)|2+ GB|Germany 🇩🇪|✅|[🌐](https://winheberg.fr/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐|Single: 296  Multi: 1094|BoxToPlay|32 GB|999|4.4 GHz (Ryzen 5 3600X)|Unlimited|France 🇫🇷|❔|[🌐](https://www.boxtoplay.com/en/minecraft-server/free-minecraft-server-hosting)|❌|✅|12h free trial|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐|❌ (Not available)|Redusir|2 GB|Unlimited|❔|4 GB|Germany 🇩🇪 / Singapore :singapore:|❌|[🌐](https://redusir.com/)|❌|✅|--|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.8 ⭐|❌ (Not available)|Minestrator|2 GB|Unlimited|3.2Ghz+ (❔)|2 GB|France 🇫🇷|❌|[🌐](https://minestrator.com/serveur/minecraft/gratuit)|❌|✅|French Website, 12h test offer|
 
-**Listed servers: 42**
+**Listed servers: 43**
 
 >**NOTES:**
 >
@@ -84,7 +85,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 25/August/2023*
+###### *List updated on 2/September/2023*
 
 ***
 
