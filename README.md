@@ -41,15 +41,12 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.5 ⭐||godlike.host|2 GB|Unlimited|4.7 GHz (Ryzen 9 3950X)|10 GB|Ukraine :ukraine:|❌|[🌐](https://godlike.host/minecraft-free-server-en/)|❌|✅|High-quality gaming support is provided only for paid plans.|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-2.svg) 2 ⭐||cloud.oracle.com|24 GB|Unlimited|3.0 GHz (1-4x Ampere Altra)|20 GB|[List](https://www.oracle.com/cloud/public-cloud-regions/)|✅|[🌐](https://www.oracle.com/cloud/free/)|❌|✅ *good luck*|Minecraft / Java Not Installed, no Game Panel. User has complete control of server. [Documentation here](https://blogs.oracle.com/developers/post/how-to-set-up-and-run-a-really-powerful-free-minecraft-server-in-the-cloud)|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||vexyhost.com|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
-![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 3.2 ⭐||linenodes.fun 22/July/23: WEBSITE DEAD|4 GB|Unlimited|3.8 GHz (Ryzen Pro 1700X)|8.5 GB|[List](https://paste.ofcode.org/XZFWcAUj4KFTSBCzPbkUyn)|✅|[🌐](https://linenodes.fun/eng/index.html)|❌|✅|High-quality and gaming support is provided for free and paid plans. 22/July/23: WEBSITE DEAD
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 ⭐||eugamehost.com|2 GB|35|5.80 GHz (i9-13900K)|Unlimited|Germany :de:|✅|[🌐](https://www.eugamehost.com/minecraft-server-hosting)|❌|✅|Use 12Tbit DDoS protection from Path.net. Always on and always free. Use AMP panel i.e. modern version of McMyAdmin.
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.2 ⭐||space-hosting.it|1 GB|❔|4.9 GHz (Ryzen 9 5950x)|4 GB|Lithuania :lithuania: / Italy :it:|❔|[🌐](https://www.space-hosting.it/Minecraft-Server-Hosting/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||pockethost.app|8 GB|Unlimited|? GHz (AWS Graviton3)|15 GB|Ireland :ireland: / USA :us: / India :india:|✅|[🌐](https://pockethost.app/en/)|❌|✅|2.5h Free trial|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||forcehost.net 22/July/23: WEBSITE DEAD?|1 GB|2|3.10 GHz (Xeon E5 2630v4)|10 GB|Germany :de: / USA :us:|✅|[🌐](https://my.forcehost.net/app)|❌|✅|Pterodactyl panel since 2020 22/July/23: WEBSITE DEAD?|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.3 ⭐||localnodes.eu|4 GB|Unlimited|6.00 GHz (i9-13900KS)|8 GB|Netherlands :netherlands: / France :fr: / Estonia :estonia: / Singapore :singapore:|✅|[🌐](https://localnodes.eu/)|❌|✅|Own hardware, not abused like other Free hosts. No Data losses.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.4 ⭐||galactiq.net|3 GB|20|3.46 GHz (Xeon X3460)|10 GB|USA :us:|❌|[🌐](https://galactiq.net/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐||optikservers.com|❔|❔|4.9 GHz (Ryzen 9 5950x)|❔|Germany :de:|✅|[🌐](https://optikservers.com/)|❌|✅|--|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||hematitehosting.uk 22/July/23: WEBSITE DEAD|4 GB|❔|❔|10 GB|Germany 🇩🇪|❔|[🌐](https://hematitehosting.uk/minecraft.html)|❔|❔|Out of Stock (10/June/2023) 22/July/23: WEBSITE DEAD|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.2 ⭐||slimehosting.com|2 GB|Unlimited|3.2 GHz (EPYC 7282)|20 GB|USA :us:|✅|[🌐](https://www.slimehosting.com/billing/store/free-hosting)|✅|✅|Not always in stock, first come first serve.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐||stozu.net|❔|❔|❔|❔|Germany :de:|✅|[🌐](https://stozu.net/free.php)|✅|❌|Great performance, built-in DDOS protection and security.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4 ⭐||servertap.net|2 GB|6|3.4 GHz (EPYC 7742)|Unlimited|Germany :de: / Finland :finland: / USA :us:|✅|[🌐](https://servertap.net/)|✅|❌|Possibility to get servers with more power for cheap, paid hourly and more power depending on the server type and unlimited slots.|
@@ -85,7 +82,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 2/September/2023*
+###### *List updated on 6/September/2023*
 
 ***
 
