@@ -60,7 +60,8 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ***
 
-## Trials server listing
+# Trials Server Listing
+
 > ⚠️ **NOTICE**: THESE SERVICES ARE NOT "FREE", THEY ARE TEMPORARY TRIALS 
 >
 > These services don't offer free servers ad infinitum, they're usually temporary trials (can vary from a few hours to a month), these services offer the possibility of using their paid option (therefore better than the free services).
