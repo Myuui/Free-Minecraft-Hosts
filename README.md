@@ -32,7 +32,6 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.5 ⭐|❌ (Not available)|magmanode.com|2,5 GB|Unlimited|3.6GHz (Ryzen 7 3700X)|5 GB|Germany :de:|❔|[🌐](https://magmanode.com/order)|❔|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.2 ⭐||freemcserver.net|1.5 GB (+200 if Forge)|Unlimited|3.35 GHz (EPYC 7502P)|10 GB|USA :us: / Germany :de: / France :fr:|✅|[🌐](https://freemcserver.net/)|❌|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.7 ⭐||server.pro|1 GB|20|3.7 GHz (Xenon E3)|5 GB|France :fr: / Canada :canada:|❌|[🌐](https://server.pro/create)|❌|✅|--|
-![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐||mcprohosting.com|2 GB|5|3.0 GHz (Xeon E5-2620)|❔|[List](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html)|✅|[🌐](https://mcprohosting.com/freebee)|❔|✅|Currently out of stock on this item so orders for it have been suspended until more stock is available|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.9 ⭐||ploudos.com|2 GB|255|3.5GHz (EPYC 7763)|6 GB|1.  Germany :de:|❌|[🌐](https://ploudos.com/server/)|❌|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.6 ⭐||private-hosting.eu|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐||skynode.pro|2 GB|Unlimited|4.4 GHz (AMD Ryzen 7 3700X)|5 BG|Germany :de:|✅|[🌐](https://www.skynode.pro/free-hosting/minecraft)|❌|✅|--|
@@ -77,6 +76,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐|❌ (Not available)|WINHEBERG|24h|2 GB|Unlimited|4.8 GHz (Ryzen 9 5900x)|10 GB|France 🇫🇷|✅|[🌐](https://client.cortexnodes.com/)|❌|✅|New hosting service seeking for feedback. French Discord|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.8 ⭐|❌ (Not available)|Minestrator|12h|2 GB|Unlimited|3.2 Ghz+ (❔)|2 GB|France 🇫🇷|❌|[🌐](https://minestrator.com/serveur/minecraft/gratuit)|❌|✅|French Website.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||Sparked Host|24h|4 GB|Unlimited|5.3 GHz(Intel Core i9-10900K)|100 GB|[List](https://sparkedhost.com/hardware)|❔|[🌐](https://sparkedhost.com/free-trials)|❌|✅|--|
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐||mcprohosting.com|2 GB|5|3.0 GHz (Xeon E5-2620)|❔|[List](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html)|✅|[🌐](https://mcprohosting.com/freebee)|❔|✅|Currently out of stock on this item so orders for it have been suspended until more stock is available|
 
 **Listed servers: 44**
 
