@@ -74,10 +74,11 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||pockethost.app|2.5h|8 GB|Unlimited|? GHz (AWS Graviton3)|15 GB|Ireland :ireland: / USA :us: / India :india:|✅|[🌐](https://pockethost.app/en/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||cubeservers.us|10d|3 GB|Unlimited|3.4 GHz (EPYC Serie 7002)|105 GB|Netherlands 🇳🇱|✅|[🌐](https://cubeservers.us/)|❌|✅|Server free for 10 days. Possibility to win events/giveaways for a free month of a plan based on the giveaway. For the 10 days trial, join the official discord server.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐|Single: 296  Multi: 1094|BoxToPlay|12h|32 GB|999|4.4 GHz (Ryzen 5 3600X)|Unlimited|France 🇫🇷|❔|[🌐](https://www.boxtoplay.com/en/minecraft-server/free-minecraft-server-hosting)|❌|✅|--|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐|❌ (Not available)|WINHEBERG|24h|2 GB|Unlimited|4.8GHz (Ryzen 9 5900x)|10 GB|France 🇫🇷|✅|[🌐](https://client.cortexnodes.com/)|❌|✅|New hosting service seeking for feedback. French Discord|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.8 ⭐|❌ (Not available)|Minestrator|12h|2 GB|Unlimited|3.2Ghz+ (❔)|2 GB|France 🇫🇷|❌|[🌐](https://minestrator.com/serveur/minecraft/gratuit)|❌|✅|French Website.|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐|❌ (Not available)|WINHEBERG|24h|2 GB|Unlimited|4.8 GHz (Ryzen 9 5900x)|10 GB|France 🇫🇷|✅|[🌐](https://client.cortexnodes.com/)|❌|✅|New hosting service seeking for feedback. French Discord|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.8 ⭐|❌ (Not available)|Minestrator|12h|2 GB|Unlimited|3.2 Ghz+ (❔)|2 GB|France 🇫🇷|❌|[🌐](https://minestrator.com/serveur/minecraft/gratuit)|❌|✅|French Website.|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||Sparked Host|24h|4 GB|Unlimited|5.3 GHz(Intel Core i9-10900K)|100 GB|[List](https://sparkedhost.com/hardware)|❔|[🌐](https://sparkedhost.com/free-trials)|❌|✅|--|
 
-**Listed servers: 43**
+**Listed servers: 44**
 
 >**NOTES:**
 >
