@@ -45,6 +45,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.4 ⭐||galactiq.net|3 GB|20|3.46 GHz (Xeon X3460)|10 GB|USA :us:|❌|[🌐](https://galactiq.net/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐||optikservers.com|❔|❔|4.9 GHz (Ryzen 9 5950x)|❔|Germany :de:|✅|[🌐](https://optikservers.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.2 ⭐||slimehosting.com|2 GB|Unlimited|3.2 GHz (EPYC 7282)|20 GB|USA :us:|✅|[🌐](https://www.slimehosting.com/billing/store/free-hosting)|✅|✅|Not always in stock, first come first serve.|
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐||mcprohosting.com|2 GB|5|3.0 GHz (Xeon E5-2620)|❔|[List](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html)|✅|[🌐](https://mcprohosting.com/freebee)|❔|✅|Currently out of stock on this item so orders for it have been suspended until more stock is available|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐||stozu.net|❔|❔|❔|❔|Germany :de:|✅|[🌐](https://stozu.net/free.php)|✅|❌|Great performance, built-in DDOS protection and security.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4 ⭐||servertap.net|2 GB|6|3.4 GHz (EPYC 7742)|Unlimited|Germany :de: / Finland :finland: / USA :us:|✅|[🌐](https://servertap.net/)|✅|❌|Possibility to get servers with more power for cheap, paid hourly and more power depending on the server type and unlimited slots.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐||bbn.one|2+ GB|Unlimited|5.4 GHz (Ryzen 9 7945HX)|2.5 GB|Germany :de: / Finland :finland: / India :india:|✅|[🌐](https://bbn.one/hosting/)|❌|✅|Scalable hosting provider thru virtual coins. Files kept forever if no abuse, with custom open source frontend.|
@@ -77,9 +78,9 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐|❌ (Not available)|WINHEBERG|24h|2 GB|Unlimited|4.8 GHz (Ryzen 9 5900x)|10 GB|France 🇫🇷|✅|[🌐](https://client.cortexnodes.com/)|❌|✅|New hosting service seeking for feedback. French Discord|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.8 ⭐|❌ (Not available)|Minestrator|12h|2 GB|Unlimited|3.2 Ghz+ (❔)|2 GB|France 🇫🇷|❌|[🌐](https://minestrator.com/serveur/minecraft/gratuit)|❌|✅|French Website.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||Sparked Host|24h|4 GB|Unlimited|5.3 GHz(Intel Core i9-10900K)|100 GB|[List](https://sparkedhost.com/hardware)|❔|[🌐](https://sparkedhost.com/free-trials)|❌|✅|--|
-![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐||mcprohosting.com|2 GB|5|3.0 GHz (Xeon E5-2620)|❔|[List](https://mcprohosting.com/billing/knowledgebase/106/Server-Locations-MCProHosting-Offers.html)|✅|[🌐](https://mcprohosting.com/freebee)|❔|✅|Currently out of stock on this item so orders for it have been suspended until more stock is available|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|Four Seasons Hosting|7d|3 GB|Unlimited|3.5 GHz (Intel Xeon E5-2690 v4)|Unlimited|USA :us:|✅|[🌐](https://fourseasonshosting.com/)|❌|✅|Available for Java & Bedrock. Weekly background updates to ensure the latest security features are installed.|
 
-**Listed servers: 44**
+**Listed servers: 45**
 
 >**NOTES:**
 >
@@ -97,7 +98,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 9/September/2023*
+###### *List updated on 13/September/2023*
 
 ***
 
