@@ -32,7 +32,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.5 ⭐|❌ (Not available)|magmanode.com|2,5 GB|Unlimited|3.6GHz (Ryzen 7 3700X)|5 GB|Germany :de:|❔|[🌐](https://magmanode.com/order)|❔|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.2 ⭐||freemcserver.net|1.5 GB (+200 if Forge)|Unlimited|3.35 GHz (EPYC 7502P)|10 GB|USA :us: / Germany :de: / France :fr:|✅|[🌐](https://freemcserver.net/)|❌|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.7 ⭐||server.pro|1 GB|20|3.7 GHz (Xenon E3)|5 GB|France :fr: / Canada :canada:|❌|[🌐](https://server.pro/create)|❌|✅|--|
-![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.9 ⭐||ploudos.com|2 GB|255|3.5GHz (EPYC 7763)|6 GB|1.  Germany :de:|❌|[🌐](https://ploudos.com/server/)|❌|✅|--|
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.9 ⭐||ploudos.com|2 GB|255|3.5GHz (EPYC 7763)|6 GB|1.  Germany :de:|❌|[🌐](https://ploudos.com/server/)|❌|✅|PloudOS will shut down on September 30th at 11:30 pm (CEST)|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.6 ⭐||private-hosting.eu|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.9 ⭐||skynode.pro|2 GB|Unlimited|4.4 GHz (AMD Ryzen 7 3700X)|5 BG|Germany :de:|✅|[🌐](https://www.skynode.pro/free-hosting/minecraft)|❌|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||minehost.io|❔|❔|❔|❔|❔|❔|[🌐](https://www.minehost.io/)|✅|❌|--|
