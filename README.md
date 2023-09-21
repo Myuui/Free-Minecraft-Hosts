@@ -56,7 +56,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||aerora.net|2 GB|Unlimited|3,3 GHz (Ampere Altra Q80-30)|12 GB|Germany :de:|✅|[🌐](https://aerora.net/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||EmpireNodes|2+ GB|5|3.3 GHz (EPYC 7B12)|5+ GB|France 🇫🇷 / Finland 🇫🇮 / USA 🇺🇸 / Germany :de:|❔|❔|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐|Single: 163  Multi: 618|CortexNodes|2+ GB|Unlimited|3.0 GHz (EPYC 7401P)|2+ GB|Germany 🇩🇪|✅|[🌐](https://winheberg.fr/)|❌|✅|--|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐|❌ (Not available)|Redusir|2 GB|Unlimited|❔|4 GB|Germany 🇩🇪 / Singapore :singapore:|❌|[🌐](https://redusir.com/)|❌|✅|--|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.9 ⭐|❌ (Not available)|Redusir|2 GB|Unlimited|3.7 GHz(EPYC 7543)|6 GB|Germany 🇩🇪 / Singapore :singapore:|✅|[🌐](https://redusir.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||BlueFoxHost|8 GB|Unlimited|4.2 GHz (Ryzen 5 3600)|80 GB|Germany 🇩🇪 / USA :us: / Canada 🇨🇦|✅|[🌐](https://bluefoxhost.com/)|❌|✅|--|
 
 ***
