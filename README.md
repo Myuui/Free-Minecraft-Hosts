@@ -81,7 +81,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||Sparked Host|24h|4 GB|Unlimited|5.3 GHz(Intel Core i9-10900K)|100 GB|[List](https://sparkedhost.com/hardware)|❔|[🌐](https://sparkedhost.com/free-trials)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|Four Seasons Hosting|7d|3 GB|Unlimited|3.5 GHz (Intel Xeon E5-2690 v4)|Unlimited|USA :us:|✅|[🌐](https://fourseasonshosting.com/)|❌|✅|Available for Java & Bedrock. Weekly background updates to ensure the latest security features are installed.|
 
-**Listed servers: 45**
+**Listed servers: 44**
 
 >**NOTES:**
 >
@@ -99,7 +99,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 13/September/2023*
+###### *List updated on 30/September/2023*
 
 ***
 
