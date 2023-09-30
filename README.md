@@ -58,6 +58,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐|Single: 163  Multi: 618|CortexNodes|2+ GB|Unlimited|3.0 GHz (EPYC 7401P)|2+ GB|Germany 🇩🇪|✅|[🌐](https://winheberg.fr/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.9 ⭐|❌ (Not available)|Redusir|2 GB|Unlimited|3.7 GHz(EPYC 7543)|6 GB|Germany 🇩🇪 / Singapore :singapore:|✅|[🌐](https://redusir.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||BlueFoxHost|8 GB|Unlimited|4.2 GHz (Ryzen 5 3600)|80 GB|Germany 🇩🇪 / USA :us: / Canada 🇨🇦|✅|[🌐](https://bluefoxhost.com/)|❌|✅|--|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐||MooNodes|6 GB|Unlimited|❔|29 GB|Germany 🇩🇪 / Austria 🇦🇹|✅|[🌐](https://moonodes.net/)|❌|✅|--|
 
 ***
 
