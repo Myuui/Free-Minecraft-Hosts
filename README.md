@@ -60,6 +60,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐||MooNodes|6 GB|Unlimited|❔|29 GB|Germany 🇩🇪 / Austria 🇦🇹|✅|[🌐](https://moonodes.net/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||BluedHost|3+ GB|Unlimited|5.00 GHz (Xeon E-2278G)|5+ GB|Germany 🇩🇪 / USA :us:|✅|[🌐](https://blued.host/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.9 ⭐|Single: 231  Multi: 863|Endelon Hosting|4 GB|Unlimited|3.8 GHz (Ryzen 7 PRO 1700X)|10 GB|Germany 🇩🇪|❌|[🌐](https://endelon.link)|❌|✅|Ad-free, self coded panel, Note: Trustpilot Page NOT official, reviews aren't accurate, [official google maps page](https://g.page/r/CaNIgneT6fSoEBM/review)|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 ⭐||servertux.net|4 GB|Unlimited|4.9 GHz (AMD Ryzen 5950X)|30 GB|Germany 🇩🇪|✅|[🌐](https://servertux.net)|❌|✅|Virtual currency that can be used for better hardware|
 
 ***
 
@@ -83,7 +84,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|Four Seasons Hosting|7d|3 GB|Unlimited|3.5 GHz (Intel Xeon E5-2690 v4)|Unlimited|USA :us:|✅|[🌐](https://fourseasonshosting.com/)|❌|✅|Available for Java & Bedrock. Weekly background updates to ensure the latest security features are installed.|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.3 ⭐|❌ (Not available)|minehut.com|4h|1 GB|10|4.0 GHz (AMD EPYC 7443P)|Unlimited|USA :us:|❌|[🌐](https://minehut.com/)|❌|✅|Very bad CPU apparently|
 
-**Listed servers: 46**
+**Listed servers: 47**
 
 >**NOTES:**
 >
