@@ -83,7 +83,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|Four Seasons Hosting|7d|3 GB|Unlimited|3.5 GHz (Intel Xeon E5-2690 v4)|Unlimited|USA :us:|✅|[🌐](https://fourseasonshosting.com/)|❌|✅|Available for Java & Bedrock. Weekly background updates to ensure the latest security features are installed.|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.3 ⭐|❌ (Not available)|minehut.com|4h|1 GB|10|4.0 GHz (AMD EPYC 7443P)|Unlimited|USA :us:|❌|[🌐](https://minehut.com/)|❌|✅|Very bad CPU apparently|
 
-**Listed servers: 45**
+**Listed servers: 46**
 
 >**NOTES:**
 >
