@@ -25,7 +25,6 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |--|--|--|--|--|--|--|--|--|--|--|--|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.3 ⭐ |❌ (out of stock)|omgserv.com | 1 GB | 4 | 3.3GHZ (XEON E5-2670) | Unlimited | France :fr: / USA :us: |❌| [🌐](https://www.omgserv.com/en/hosting/minecraft-server/free/) |❌|✅| Out of Stock (30/July/2023)
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 2.8 ⭐|❌ (Not available)|aternos.org|❔|Unlimited|3.9 GHz (i7/Xeon)|4 GB|Germany❔ :de:|❌|[🌐](https://aternos.org/go/)|❌|✅|Queue system|
-![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.3 ⭐|❌ (Not available)|minehut.com|1 GB|10|4.0 GHz (AMD EPYC 7443P)|Unlimited|USA :us:|❌|[🌐](https://minehut.com/)|❌|✅|Very bad CPU apparently|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.3 ⭐|❌ (Not available)|scalacube.com|6 GB|Unlimited|3.4 GHz (Intel/ AMD Xeon ❔)|30 GB|Canada :canada: / France :fr: / United Kingdom :uk: / Australia :australia: / Singapore :singapore:|❔|[🌐](https://scalacube.com/hosting/server/minecraft/constructor/public)|❌|✅|Bad panel|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.5 ⭐|Single: 209  Multi: 521|falixnodes.net|Dynamic|Unlimited|3.4 GHz (Ryzen 9 5950X)|15 GB|Germany :de: / Finland :finland:|❌|[🌐](https://falixnodes.net/)|❌|✅|Custom IP address, Modded servers allowed, Scheduled backups, Scheduled tasks, MySQL database, Technical support.|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.2 ⭐|❌ (Not available)|minefort.com|1 GB|20|❔|10 GB|❔|❌|[🌐](https://minefort.com/)|❌|✅|--|
@@ -59,6 +58,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.9 ⭐|❌ (Not available)|Redusir|2 GB|Unlimited|3.7 GHz(EPYC 7543)|6 GB|Germany 🇩🇪 / Singapore :singapore:|✅|[🌐](https://redusir.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||BlueFoxHost|8 GB|Unlimited|4.2 GHz (Ryzen 5 3600)|80 GB|Germany 🇩🇪 / USA :us: / Canada 🇨🇦|✅|[🌐](https://bluefoxhost.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐||MooNodes|6 GB|Unlimited|❔|29 GB|Germany 🇩🇪 / Austria 🇦🇹|✅|[🌐](https://moonodes.net/)|❌|✅|--|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||BluedHost|3+ GB|Unlimited|5.00 GHz (Xeon E-2278G)|5+ GB|Germany 🇩🇪 / USA :us:|✅|[🌐](https://blued.host/)|❌|✅|--|
 
 ***
 
@@ -80,8 +80,9 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.8 ⭐|❌ (Not available)|Minestrator|12h|2 GB|Unlimited|3.2 Ghz+ (❔)|2 GB|France 🇫🇷|❌|[🌐](https://minestrator.com/serveur/minecraft/gratuit)|❌|✅|French Website.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||Sparked Host|24h|4 GB|Unlimited|5.3 GHz(Intel Core i9-10900K)|100 GB|[List](https://sparkedhost.com/hardware)|❔|[🌐](https://sparkedhost.com/free-trials)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|Four Seasons Hosting|7d|3 GB|Unlimited|3.5 GHz (Intel Xeon E5-2690 v4)|Unlimited|USA :us:|✅|[🌐](https://fourseasonshosting.com/)|❌|✅|Available for Java & Bedrock. Weekly background updates to ensure the latest security features are installed.|
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.3 ⭐|❌ (Not available)|minehut.com|4h|1 GB|10|4.0 GHz (AMD EPYC 7443P)|Unlimited|USA :us:|❌|[🌐](https://minehut.com/)|❌|✅|Very bad CPU apparently|
 
-**Listed servers: 44**
+**Listed servers: 45**
 
 >**NOTES:**
 >
@@ -99,7 +100,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 30/September/2023*
+###### *List updated on 10/October/2023*
 
 ***
 
