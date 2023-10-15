@@ -17,7 +17,8 @@
 
 </div>
 
-> ⚠️ **NOTICE:**  I make this list only for Java servers, and not Bedrock. While some services listed may support Bedrock, I can't guarantee that they are free, nor confirm the specifications of the servers.
+> [!WARNING]
+> I make this list only for Java servers, and not Bedrock. While some services listed may support Bedrock, I can't guarantee that they are free, nor confirm the specifications of the servers.
 >
 > 
 
@@ -61,16 +62,19 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.9 ⭐|Single: 231  Multi: 863|Endelon Hosting|4 GB|Unlimited|3.8 GHz (Ryzen 7 PRO 1700X)|10 GB|Germany 🇩🇪|❌|[🌐](https://endelon.link)|❌|✅|Ad-free, self coded panel, Note: Trustpilot Page NOT official, reviews aren't accurate, [official google maps page](https://g.page/r/CaNIgneT6fSoEBM/review)|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 ⭐||servertux.net|4 GB|Unlimited|4.9 GHz (AMD Ryzen 5950X)|30 GB|Germany 🇩🇪|✅|[🌐](https://servertux.net)|❌|✅|Virtual currency that can be used for better hardware|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐|Single: 271  Multi: 585|PaperNodes|2 GB|Unlimited|3 GHz (Ampere Altra Q80-30)|3 GB|Germany 🇩🇪|✅|[🌐](https://papernodes.com/)|❌|✅|--|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 ⭐||LimeNodes|3 GB|Unlimited|❔|5 GB|Britain 🇬🇧|✅|[🌐](https://free.limenodes.com/)|❌|✅|Specs may be wrong, external upload.|
 
 ***
 
 # Trials Server Listing
 
-> ⚠️ **NOTICE**: THESE SERVICES ARE NOT "FREE", THEY ARE TEMPORARY TRIALS 
+> [!WARNING]
+> THESE SERVICES ARE NOT "FREE", THEY ARE TEMPORARY TRIALS 
 >
 > These services don't offer free servers ad infinitum, they're usually temporary trials (can vary from a few hours to a month), these services offer the possibility of using their paid option (therefore better than the free services).
->
-> Note: on some services, you can restart your trial.
+
+> [!NOTE]
+> On some services, you can restart your trial.
 
 | Reviews | Benchmark | Host | Trial Duration | RAM | Number of Slots | CPU Frequency | Storage | Location | 24/7 | Link | No Registering | Technical Support | Notes |
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|
@@ -84,7 +88,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.4 ⭐|❌ (Not available)|Four Seasons Hosting|7d|3 GB|Unlimited|3.5 GHz (Intel Xeon E5-2690 v4)|Unlimited|USA :us:|✅|[🌐](https://fourseasonshosting.com/)|❌|✅|Available for Java & Bedrock. Weekly background updates to ensure the latest security features are installed.|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 3.2 ⭐|❌ (Not available)|minehut.com|4h|1 GB|10|4.0 GHz (AMD EPYC 7443P)|Unlimited|USA :us:|❌|[🌐](https://minehut.com/)|❌|✅|Very bad CPU apparently|
 
-**Listed servers: 47**
+**Listed servers: 48**
 
 >**NOTES:**
 >
@@ -102,7 +106,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 11/October/2023*
+###### *List updated on 15/October/2023*
 
 ***
 
