@@ -64,7 +64,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 ⭐||LimeNodes|3 GB|Unlimited|❔|5 GB|Britain 🇬🇧|✅|[🌐](https://free.limenodes.com/)|❌|✅|Specs may be wrong, external upload.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||SapphireServers|2+ GB|Unlimited|4.6 GHz (i7 8700)|15 GB|Germany 🇩🇪|✅|[🌐](https://sapphireservers.net)|❌|✅|Scalable hosting provider thru virtual coins (obtained for free by watching ads). Up to 5 GB of RAM.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||SapphireServers|2+ GB|Unlimited|4.6 GHz (i7 8700)|15 GB|Germany 🇩🇪|✅|[🌐](https://sapphireservers.net)|❌|✅|Scalable hosting provider thru virtual coins (obtained for free by watching ads). Up to 5 GB of RAM.|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) N/A temporary ⭐|Single: 252  Multi: 583|MCST|4 GB|Unlimited|4.6 GHz (Xeon-E5)|25 GB|France 🇫🇷 / Britain 🇬🇧|--|[🌐](https://mcst.io/)|❌|✅|Storage Expandable by Request. Free control over all the server files.|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) N/A temporary ⭐|Single: 252  Multi: 583|MCST|4 GB|Unlimited|4.6 GHz (Xeon-E5)|25+ GB|France 🇫🇷 / Britain 🇬🇧|--|[🌐](https://mcst.io/)|❌|✅|Storage Expandable by Request. Free control over all the server files.|
 
 ***
 
@@ -91,7 +91,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 3.2 ⭐|❌ (Not available)|minehut.com|4h|1 GB|10|4.0 GHz (AMD EPYC 7443P)|Unlimited|USA :us:|❌|[🌐](https://minehut.com/)|❌|✅|Very bad CPU apparently|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||vexyhost.com|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
 
-**Listed servers: 48**
+**Listed servers: 49**
 
 >**NOTES:**
 >
@@ -109,7 +109,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 15/October/2023*
+###### *List updated on 28/October/2023*
 
 ***
 
