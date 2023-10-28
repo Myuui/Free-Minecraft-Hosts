@@ -63,6 +63,8 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐|Single: 271  Multi: 585|PaperNodes|2 GB|Unlimited|3 GHz (Ampere Altra Q80-30)|3 GB|Germany 🇩🇪|✅|[🌐](https://papernodes.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 ⭐||LimeNodes|3 GB|Unlimited|❔|5 GB|Britain 🇬🇧|✅|[🌐](https://free.limenodes.com/)|❌|✅|Specs may be wrong, external upload.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||SapphireServers|2+ GB|Unlimited|4.6 GHz (i7 8700)|15 GB|Germany 🇩🇪|✅|[🌐](https://sapphireservers.net)|❌|✅|Scalable hosting provider thru virtual coins (obtained for free by watching ads). Up to 5 GB of RAM.|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||SapphireServers|2+ GB|Unlimited|4.6 GHz (i7 8700)|15 GB|Germany 🇩🇪|✅|[🌐](https://sapphireservers.net)|❌|✅|Scalable hosting provider thru virtual coins (obtained for free by watching ads). Up to 5 GB of RAM.|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) N/A temporary ⭐|Single: 252  Multi: 583|MCST|4 GB|Unlimited|4.6 GHz (Xeon-E5)|25 GB|France 🇫🇷 / Britain 🇬🇧|--|[🌐](https://mcst.io/)|❌|✅|Storage Expandable by Request. Free control over all the server files.|
 
 ***
 
