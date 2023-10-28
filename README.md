@@ -89,7 +89,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||Sparked Host|24h|4 GB|Unlimited|5.3 GHz(Intel Core i9-10900K)|100 GB|[List](https://sparkedhost.com/hardware)|❔|[🌐](https://sparkedhost.com/free-trials)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.4 ⭐|❌ (Not available)|Four Seasons Hosting|7d|3 GB|Unlimited|3.5 GHz (Intel Xeon E5-2690 v4)|Unlimited|USA :us:|✅|[🌐](https://fourseasonshosting.com/)|❌|✅|Available for Java & Bedrock. Weekly background updates to ensure the latest security features are installed.|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 3.2 ⭐|❌ (Not available)|minehut.com|4h|1 GB|10|4.0 GHz (AMD EPYC 7443P)|Unlimited|USA :us:|❌|[🌐](https://minehut.com/)|❌|✅|Very bad CPU apparently|
-![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||vexyhost.com|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|vexyhost.com|24h|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
 
 **Listed servers: 49**
 
