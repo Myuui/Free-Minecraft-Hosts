@@ -66,6 +66,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||SapphireServers|2+ GB|Unlimited|4.6 GHz (i7 8700)|15 GB|Germany 🇩🇪|✅|[🌐](https://sapphireservers.net)|❌|✅|Scalable hosting provider thru virtual coins (obtained for free by watching ads). Up to 5 GB of RAM.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) N/A temporary ⭐|Single: 252  Multi: 583|MCST|4 GB|Unlimited|4.6 GHz (Xeon-E5)|25+ GB|France 🇫🇷 / Britain 🇬🇧|✅|[🌐](https://mcst.io/)|❌|✅|Free subdomains, 2 MySQL Database Queries & Extra Ports, Unlimited Scheduled Backups and Tasks. Storage Expandable by Request. Free control over all the server files.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||OptikLink|1 GB| Number of slots |5.2 GHz (i9-12900K)|4 GB|Germany 🇩🇪 / USA :us:|❌|[🌐](https://optiklink.com/)|❌|✅|--|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4 ⭐|Single: 244  Multi: 815|Host2Play|3 GB|Unlimited|? GHz (Intel Xeon / Ampere)|2 GB|Germany 🇩🇪 / Britain 🇬🇧 / Sweden 🇸🇪|❌|[🌐](https://host2play.gratis/)|❌|✅|--|
 
 ***
 
@@ -92,7 +93,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 3.2 ⭐|❌ (Not available)|minehut.com|4h|1 GB|10|4.0 GHz (AMD EPYC 7443P)|Unlimited|USA :us:|❌|[🌐](https://minehut.com/)|❌|✅|Very bad CPU apparently|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|vexyhost.com|24h|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
 
-**Listed servers: 49**
+**Listed servers: 50**
 
 >**NOTES:**
 >
