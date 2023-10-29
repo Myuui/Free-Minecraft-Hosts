@@ -65,7 +65,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||SapphireServers|2+ GB|Unlimited|4.6 GHz (i7 8700)|15 GB|Germany 🇩🇪|✅|[🌐](https://sapphireservers.net)|❌|✅|Scalable hosting provider thru virtual coins (obtained for free by watching ads). Up to 5 GB of RAM.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||SapphireServers|2+ GB|Unlimited|4.6 GHz (i7 8700)|15 GB|Germany 🇩🇪|✅|[🌐](https://sapphireservers.net)|❌|✅|Scalable hosting provider thru virtual coins (obtained for free by watching ads). Up to 5 GB of RAM.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) N/A temporary ⭐|Single: 252  Multi: 583|MCST|4 GB|Unlimited|4.6 GHz (Xeon-E5)|25+ GB|France 🇫🇷 / Britain 🇬🇧|✅|[🌐](https://mcst.io/)|❌|✅|Free subdomains, 2 MySQL Database Queries & Extra Ports, Unlimited Scheduled Backups and Tasks. Storage Expandable by Request. Free control over all the server files.|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||OptikLink|1 GB| Number of slots |5.2 GHz (i9-12900K)|4 GB|Germany 🇩🇪|❌|[🌐](https://optiklink.com/)|❌|✅|--|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||OptikLink|1 GB| Number of slots |5.2 GHz (i9-12900K)|4 GB|Germany 🇩🇪 / USA :us:|❌|[🌐](https://optiklink.com/)|❌|✅|--|
 
 ***
 
@@ -110,7 +110,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 28/October/2023*
+###### *List updated on 29/October/2023*
 
 ***
 
