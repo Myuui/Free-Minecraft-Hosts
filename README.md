@@ -63,7 +63,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 3 ⭐|Single: 252  Multi: 583|MCST|4 GB|Unlimited|4.6 GHz (Xeon-E5)|25+ GB|France 🇫🇷 / Britain 🇬🇧|✅|[🌐](https://mcst.io/)|✅|✅|Free subdomains, 2 MySQL Database Queries & Extra Ports, Unlimited Scheduled Backups and Tasks. Storage Expandable by Request. Free control over all the server files.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|Single: 343  Multi: 1402|OptikLink|1 GB| Number of slots |5.2 GHz (i9-12900K)|4 GB|Germany 🇩🇪 / USA :us:|❌|[🌐](https://optiklink.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4 ⭐|Single: 244  Multi: 815|Host2Play|3 GB|Unlimited|? GHz (Intel Xeon / Ampere)|2 GB|Germany 🇩🇪 / Britain 🇬🇧 / Sweden 🇸🇪|❌|[🌐](https://host2play.gratis/)|❌|✅|--|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐| Benchmark |AxentHost|2+ GB|Unlimited|❔|5+ GB|Germany 🇩🇪 / USA :us:|❔|[🌐](https://axenthost.com/)|❌|✅|Scalable hosting provider thru virtual coins, possibility to get 24/7 by optimising coins.
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|❌ (Not available)|AxentHost|2+ GB|Unlimited|❔|5+ GB|Germany 🇩🇪 / USA :us:|❔|[🌐](https://axenthost.com/)|❌|✅|Scalable hosting provider thru virtual coins, possibility to get 24/7 by optimising coins.
 
 ***
 
@@ -91,7 +91,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|vexyhost.com|24h|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.6 ⭐||private-hosting.eu|7d|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 
-**Listed servers: 53**
+**Listed servers: 54**
 
 >**NOTES:**
 >
@@ -109,7 +109,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 29/October/2023*
+###### *List updated on 3/November/2023*
 
 ***
 
