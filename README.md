@@ -63,6 +63,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg) 3 ⭐|Single: 252  Multi: 583|MCST|4 GB|Unlimited|4.6 GHz (Xeon-E5)|25+ GB|France 🇫🇷 / Britain 🇬🇧|✅|[🌐](https://mcst.io/)|✅|✅|Free subdomains, 2 MySQL Database Queries & Extra Ports, Unlimited Scheduled Backups and Tasks. Storage Expandable by Request. Free control over all the server files.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|Single: 343  Multi: 1402|OptikLink|1 GB| Number of slots |5.2 GHz (i9-12900K)|4 GB|Germany 🇩🇪 / USA :us:|❌|[🌐](https://optiklink.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4 ⭐|Single: 244  Multi: 815|Host2Play|3 GB|Unlimited|? GHz (Intel Xeon / Ampere)|2 GB|Germany 🇩🇪 / Britain 🇬🇧 / Sweden 🇸🇪|❌|[🌐](https://host2play.gratis/)|❌|✅|--|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐| Benchmark |AxentHost|2+ GB|Unlimited|❔|5+ GB|Germany 🇩🇪 / USA :us:|❔|[🌐](https://axenthost.com/)|❌|✅|Scalable hosting provider thru virtual coins, possibility to get 24/7 by optimising coins.
 
 ***
 
