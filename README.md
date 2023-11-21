@@ -65,6 +65,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4 ⭐|Single: 244  Multi: 815|Host2Play|3 GB|Unlimited|? GHz (Intel Xeon / Ampere)|2 GB|Germany 🇩🇪 / Britain 🇬🇧 / Sweden 🇸🇪|❌|[🌐](https://host2play.gratis/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|❌ (Not available)|AxentHost|2+ GB|Unlimited|❔|5+ GB|Germany 🇩🇪 / USA :us:|❔|[🌐](https://axenthost.com/)|❌|✅|Scalable hosting provider thru virtual coins, possibility to get 24/7 by optimising coins.
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|Single: 316  Multi: 1257|Renoir|4+ GB|Unlimited|3.8 GHz (EPYC 9454)|10+ GB|Germany 🇩🇪|✅|[🌐](https://renoir.pro/)|❌|✅|Scalable hosting provider thru virtual coins.
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐|❌ (Not available)|Minecraft4free|2 GB|Unlimited|❔|10 GB|Germany 🇩🇪|❌|[🌐](https://minecraft4free.de/)|❌|✅|Servers terminated after not renewing it for a week|
 
 ***
 
@@ -92,7 +93,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|vexyhost.com|24h|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.6 ⭐||private-hosting.eu|7d|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 
-**Listed servers: 55**
+**Listed servers: 56**
 
 >**NOTES:**
 >
@@ -110,7 +111,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 5/November/2023*
+###### *List updated on 21/November/2023*
 
 ***
 
