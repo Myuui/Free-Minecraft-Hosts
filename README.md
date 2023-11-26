@@ -112,7 +112,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 22/November/2023*
+###### *List updated on 26/November/2023*
 
 ***
 
