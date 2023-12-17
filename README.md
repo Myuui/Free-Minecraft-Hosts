@@ -49,7 +49,6 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐||fps.ms|4 GB|Unlimited|3.6 GHz (I9-9900K)|5 GB|Germany :de: / USA :us: / Singapore :singapore:|❌|[🌐](https://www.fps.ms/)|❌|✅|New hosting service seeking for feedback.|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||aerora.net|2 GB|Unlimited|3,3 GHz (Ampere Altra Q80-30)|12 GB|Germany :de:|✅|[🌐](https://aerora.net/)|❌|✅|--|
 |❌|Single: 163  Multi: 618|CortexNodes|2+ GB|Unlimited|3.0 GHz (EPYC 7401P)|2+ GB|Germany 🇩🇪|✅|[🌐](https://client.cortexnodes.com/)|❌|✅|--|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||BlueFoxHost|8 GB|Unlimited|4.2 GHz (Ryzen 5 3600)|80 GB|Germany 🇩🇪 / USA :us: / Canada 🇨🇦|✅|[🌐](https://bluefoxhost.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐||MooNodes|6 GB|Unlimited|❔|29 GB|Germany 🇩🇪 / Austria 🇦🇹|✅|[🌐](https://moonodes.net/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||BluedHost|3+ GB|Unlimited|5.00 GHz (Xeon E-2278G)|5+ GB|Germany 🇩🇪 / USA :us:|✅|[🌐](https://blued.host/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4 ⭐|Single: 231  Multi: 863|Endelon Hosting|4 GB|Unlimited|3.8 GHz (Ryzen 7 PRO 1700X)|10 GB|Germany 🇩🇪|❌|[🌐](https://endelon.link)|❌|✅|Ad-free, self coded panel, Note: Trustpilot Page NOT official, reviews aren't accurate, [official google maps page](https://g.page/r/CaNIgneT6fSoEBM/review)|
@@ -90,7 +89,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|vexyhost.com|24h|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.6 ⭐||private-hosting.eu|7d|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 
-**Listed servers: 54**
+**Listed servers: 53**
 
 >**NOTES:**
 >
@@ -108,7 +107,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
 
-###### *List updated on 11th December 2023*
+###### *List updated on 17th December 2023*
 
 ***
 
