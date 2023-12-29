@@ -63,6 +63,8 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.2 ⭐|Single: 316  Multi: 1257|Renoir|4+ GB|Unlimited|3.8 GHz (EPYC 9454)|10+ GB|Germany 🇩🇪|✅|[🌐](https://renoir.pro/)|❌|✅|Scalable hosting provider thru virtual coins.
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐|❌ (Not available)|Minecraft4free|2 GB|Unlimited|❔|10 GB|Germany 🇩🇪|❌|[🌐](https://minecraft4free.de/)|❌|✅|Servers terminated after not renewing it for a week|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|❌ (Not available)|skelu.net|1 GB|Unlimited|❔|5 GB|India 🇮🇳|✅|[🌐](https://discord.com/invite/P6DEZFPSXu)|✅|✅|--
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|Single: 228  Multi: 729| SkyMC | 4 GB | 5 | 3.5 GHz (Xeon E5-2697 v2) | 6 GB | Germany 🇩🇪 / Turkey 🇹🇷| ❌ |[🌐](https://skymc.host)| ❌ | ✅ | --
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|❌ (Not available)| Gaming4Free | 2 GB | Unlimited | 5 GHz (I9-9900k) | 5 GB | Germany 🇩🇪 / Finland :finland:| ✅ | [🌐](https://gaming4free.net) | ❌ | ❌ | --
 
 ***
 
@@ -89,7 +91,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|vexyhost.com|24h|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.6 ⭐||private-hosting.eu|7d|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 
-**Listed servers: 53**
+**Listed servers: 54**
 
 >**NOTES:**
 >
@@ -106,8 +108,6 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 >-   Notes: Additional information about the hosting provider.
 
 ### We hope this list helps you find the perfect free Minecraft host for your needs. Remember to check the provider's terms and conditions to ensure you're not breaking any rules while using their service. 
-
-###### *List updated on 17th December 2023*
 
 ***
 
