@@ -64,6 +64,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|❌ (Not available)|skelu.net|1 GB|Unlimited|❔|5 GB|India 🇮🇳|✅|[🌐](https://discord.com/invite/P6DEZFPSXu)|✅|✅|--
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|Single: 228  Multi: 729| SkyMC | 4 GB | 5 | 3.5 GHz (Xeon E5-2697 v2) | 6 GB | Germany 🇩🇪 / Turkey 🇹🇷| ❌ |[🌐](https://skymc.host)| ❌ | ✅ | **502: Bad Gateway**
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4 ⭐| ❌ (Not available) | Nether Host | 2 GB | Unlimited | 3.5 GHz (EPYC 7B13) | 10 GB | USA :us: | ❌ | [🌐](https://nether.host/) | ❌ | ✅ | -- 
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-2.svg) 1.9 ⭐||cloud.google.com|8 GB|Unlimited|3.3 GHz (EPYC 7B12)|10 GB|❔|✅|[🌐](https://console.cloud.google.com/)|❌|✅ *good luck*|Minecraft / Java Not Installed, no Game Panel. User has not complete control of server. [Video Turorial here](https://www.youtube.com/watch?v=2CdQUmNKRJI)|
 
 ***
 
