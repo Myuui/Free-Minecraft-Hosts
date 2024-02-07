@@ -73,6 +73,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐| ❌ (Not available) | Slicehosting | 4 GB | Unlimited | 4.3 GHz (Ryzen 9 3900) | 8 GB | USA :us: / United Kingdom 🇬🇧 / Germany 🇩🇪 / Singapore :singapore: | ❌ | [🌐](https://dash.slicehosting.tech/auth/login) | ❌ | ✅ | Server locations switch according to sale of dedicated servers we get, virtual currency that can be used for better hardware, CPU can varry: either ryzen 9 3900, xeon gold 5412U or epyc 7543P
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 ⭐| ❌ (Not available) | SneakyHub | 12 GB | Unlimited | 4.9 GHz (Ryzen 9 5950x) | 60 GB | USA :us: | ❌ | [🌐](https://dash.sneakyhub.com/home) | ❌ | ✅ | Server works for 12h per start.
 
+
 ***
 
 # Trials Server Listing
@@ -98,6 +99,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|❌ (Not available)|vexyhost.com|24h|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐||private-hosting.eu|7d|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||space-hosting.it|30d|1 GB|❔|4.9 GHz (Ryzen 9 5950x)|4 GB|Lithuania :lithuania: / Italy :it:|❔|[🌐](https://www.space-hosting.it/Minecraft-Server-Hosting/)|❌|✅|--|
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.5 ⭐ | ❌ (Not available) | Minecraft Hosting Pro |10d| 3 GB | 4 | 5.4 GHz (Ryzen 9 7900) | Unlimited | USA :us: / France 🇫🇷 / Romania 🇷🇴 / Australia 🇦🇺 | ✅ | [🌐](https://www.minecraft-hosting.pro/offers/) | ❌ | ✅ | -- 
 
 **Listed servers: 54**
 
