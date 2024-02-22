@@ -54,7 +54,6 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||aerora.net|2 GB|Unlimited|3,3 GHz (Ampere Altra Q80-30)|12 GB|Germany :de:|✅|[🌐](https://aerora.net/)|❌|✅|--|
 |❌|Single: 163  Multi: 618|CortexNodes|2+ GB|Unlimited|3.0 GHz (EPYC 7401P)|2+ GB|Germany 🇩🇪|✅|[🌐](https://client.cortexnodes.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4 ⭐||MooNodes|6 GB|Unlimited|❔|29 GB|Germany 🇩🇪 / Austria 🇦🇹|✅|[🌐](https://moonodes.net/)|❌|✅|--|
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||BluedHost|3+ GB|Unlimited|5.00 GHz (Xeon E-2278G)|5+ GB|Germany 🇩🇪 / USA :us:|✅|[🌐](https://blued.host/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg) 4.8 ⭐|Single: 231  Multi: 863|Endelon Hosting|4 GB|Unlimited|3.8 GHz (Ryzen 7 PRO 1700X)|10 GB|Germany 🇩🇪|❌|[🌐](https://endelon-hosting.de/en/)|❌|✅|Ad-free, self coded panel, Note: Trustpilot Page NOT official, reviews aren't accurate, [official google maps page](https://g.page/r/CaNIgneT6fSoEBM/review)|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐||servertux.net|4 GB|Unlimited|4.9 GHz (AMD Ryzen 5950X)|30 GB|Germany 🇩🇪|✅|[🌐](https://servertux.net)|❌|✅|Virtual currency that can be used for better hardware. Out of Stock (10/Jan/2024)|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.2 ⭐|Single: 271  Multi: 585|PaperNodes|2 GB|Unlimited|3 GHz (Ampere Altra Q80-30)|3 GB|Germany 🇩🇪|✅|[🌐](https://papernodes.com/)|❌|✅|--|
@@ -64,7 +63,6 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|Single: 343  Multi: 1402|OptikLink|1 GB| Unlimited |5.2 GHz (i9-12900K)|4 GB|Germany 🇩🇪 / USA :us: / Japan 🇯🇵|❌|[🌐](https://optiklink.com/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.3 ⭐|Single: 244  Multi: 815|Host2Play|3 GB|Unlimited|? GHz (Intel Xeon / Ampere)|2 GB|Germany 🇩🇪 / Britain 🇬🇧 / Sweden 🇸🇪|❌|[🌐](https://host2play.gratis/)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|❌ (Not available)|AxentHost|2+ GB|Unlimited|❔|5+ GB|Germany 🇩🇪 / USA :us:|❔|[🌐](https://axenthost.com/)|❌|✅|Scalable hosting provider thru virtual coins, possibility to get 24/7 by optimising coins.
-|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 4.1 ⭐|Single: 316  Multi: 1257|Renoir|4+ GB|Unlimited|3.8 GHz (EPYC 9454)|10+ GB|Germany 🇩🇪|✅|[🌐](https://renoir.pro/)|❌|✅|Scalable hosting provider thru virtual coins.
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐|❌ (Not available)|Minecraft4free|2 GB|Unlimited|❔|10 GB|Germany 🇩🇪|❌|[🌐](https://minecraft4free.de/)|❌|✅|Servers terminated after not renewing it for a week|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|❌ (Not available)|skelu.net|1 GB|Unlimited|❔|5 GB|India 🇮🇳|✅|[🌐](https://discord.com/invite/P6DEZFPSXu)|✅|✅|--
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐|Single: 228  Multi: 729| SkyMC | 4 GB | 5 | 3.5 GHz (Xeon E5-2697 v2) | 6 GB | Germany 🇩🇪 / Turkey 🇹🇷| ❌ |[🌐](https://skymc.host)| ❌ | ✅ | **502: Bad Gateway**
@@ -100,8 +98,6 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐||private-hosting.eu|7d|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||space-hosting.it|30d|1 GB|❔|4.9 GHz (Ryzen 9 5950x)|4 GB|Lithuania :lithuania: / Italy :it:|❔|[🌐](https://www.space-hosting.it/Minecraft-Server-Hosting/)|❌|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.5 ⭐ | ❌ (Not available) | Minecraft Hosting Pro |10d| 3 GB | 4 | 5.4 GHz (Ryzen 9 7900) | Unlimited | USA :us: / France 🇫🇷 / Romania 🇷🇴 / Australia 🇦🇺 | ✅ | [🌐](https://www.minecraft-hosting.pro/offers/) | ❌ | ✅ | -- 
-
-**Listed servers: 54**
 
 >**NOTES:**
 >
