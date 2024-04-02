@@ -70,7 +70,8 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-2.svg) 1.9 ⭐||cloud.google.com|8 GB|Unlimited|3.3 GHz (EPYC 7B12)|10 GB|❔|✅|[🌐](https://console.cloud.google.com/)|❌|✅ *good luck*|Minecraft / Java Not Installed, no Game Panel. User has not complete control of server. [Video Turorial here](https://www.youtube.com/watch?v=2CdQUmNKRJI)|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.9 ⭐| ❌ (Not available) | Slicehosting | 4 GB | Unlimited | 4.3 GHz (Ryzen 9 3900) | 8 GB | USA :us: / United Kingdom 🇬🇧 / Germany 🇩🇪 / Singapore :singapore: | ❌ | [🌐](https://dash.slicehosting.tech/auth/login) | ❌ | ✅ | Server locations switch according to sale of dedicated servers we get, virtual currency that can be used for better hardware, CPU can varry: either ryzen 9 3900, xeon gold 5412U or epyc 7543P
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 ⭐| ❌ (Not available) | SneakyHub | 12 GB | Unlimited | 4.9 GHz (Ryzen 9 5950x) | 60 GB | USA :us: | ❌ | [🌐](https://dash.sneakyhub.com/home) | ❌ | ✅ | Server works for 12h per start.
-| ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.9 ⭐ | Single: 318  Multi: 906 | Minexnodes | 2 GB | Unlimited | 3.7 GHz (EPYC 7543P) | 10 GB | Sweden (🇸🇪) | ✅ | [🌐](https://discord.com/invite/9Y3HkX9wmf) | ❌ | ✅ | Panel is getting updates. |
+| ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.9 ⭐ | Single: 318  Multi: 906 | Minexnodes | 2 GB | Unlimited | 3.7 GHz (EPYC 7543P) | 10 GB | Sweden 🇸🇪 | ✅ | [🌐](https://discord.com/invite/9Y3HkX9wmf) | ❌ | ✅ | Panel is getting updates. |
+| ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐ | ❌ (Not available) | MC4FREE! | 3 GB+ | Unlimited | 4.9 GHz (Ryzen 9 5950X) | 3.5 GB+ | Germany 🇩🇪 | ❌ | [🌐](https://mcforfree.de/) | ❌ | ✅ | Virtual currency that can be used for better hardware. |
 
 ***
 
@@ -98,6 +99,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐||private-hosting.eu|7d|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||space-hosting.it|30d|1 GB|❔|4.9 GHz (Ryzen 9 5950x)|4 GB|Lithuania :lithuania: / Italy :it:|❔|[🌐](https://www.space-hosting.it/Minecraft-Server-Hosting/)|❌|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.5 ⭐ | ❌ (Not available) | Minecraft Hosting Pro |10d| 3 GB | 4 | 5.4 GHz (Ryzen 9 7900) | Unlimited | USA :us: / France 🇫🇷 / Romania 🇷🇴 / Australia 🇦🇺 | ✅ | [🌐](https://www.minecraft-hosting.pro/offers/) | ❌ | ✅ | -- 
+
 
 >**NOTES:**
 >
