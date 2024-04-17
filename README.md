@@ -1,5 +1,7 @@
 # Free Minecraft Hosts List!
 
+# I decided to concentrate the updates on the website: http://fmhl.free.nf/ I won't let the github list rotting but I won't update as much as the website
+
 <div align='center'>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Myuui/Free-Minecraft-Hosts?style=for-the-badge&logo=Github&logoColor=white&color=E3B341) 
@@ -11,16 +13,17 @@
 ### Well, I am going to present to you my list of completely free Minecraft hosts just for you.
 <p align="center">  <img src="https://i.imgur.com/rZJwXM2.gif" alt="i love money">  </p>
 
-> [!NOTE]
-> ### Website in work.
-> ## PREVIEW HERE! http://fmhl.free.nf/
-> 
-
 <div align='center'>
 
 # [**EDIT OR ADD A SERVICE ON THIS FORM RIGHT HERE!!!**](https://forms.gle/sEfDp2U2VpEuRyyU9)
 
 </div>
+
+> [!NOTE]
+> ### Website in work.
+> ## PREVIEW HERE! http://fmhl.free.nf/
+> 
+
 
 > [!WARNING]
 > I make this list only for Java servers, and not Bedrock. While some services listed may support Bedrock, I can't guarantee that they are free, nor confirm the specifications of the servers.
