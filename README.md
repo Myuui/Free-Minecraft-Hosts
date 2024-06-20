@@ -100,7 +100,7 @@ Reviews | Benchmark | Host | Ram | Number of slots | CPU Frequence | Storage | L
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg) 3.8 ⭐||private-hosting.eu|7d|2 GB|Unlimited|❔|Unlimited|❔|❔|[🌐](https://private-hosting.eu/store/free-minecraft-server-hosting)|❌|✅|--|
 |![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg) ? ⭐||space-hosting.it|30d|1 GB|❔|4.9 GHz (Ryzen 9 5950x)|4 GB|Lithuania :lithuania: / Italy :it:|❔|[🌐](https://www.space-hosting.it/Minecraft-Server-Hosting/)|❌|✅|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.5 ⭐ | ❌ (Not available) | Minecraft Hosting Pro |10d| 3 GB | 4 | 5.4 GHz (Ryzen 9 7900) | Unlimited | USA :us: / France 🇫🇷 / Romania 🇷🇴 / Australia 🇦🇺 | ✅ | [🌐](https://www.minecraft-hosting.pro/offers/) | ❌ | ✅ | -- 
-![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.4 ⭐ | ❌ (Not available) | MINET |4d| 2 GB | Unlimited | ❔ | 2 GB | Singapore 🇸🇬 | ✅ | [🌐](https://dashboard.minet.vn) | ❌ | ❌ | -- 
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.4 ⭐ | ❌ (Not available) | MINET |4d| 2 GB | Unlimited | ❔ | 2 GB | Singapore 🇸🇬 | ✅ | [🌐](https://dashboard.minet.vn) | ❌ | ❌ | 
 
 
 
