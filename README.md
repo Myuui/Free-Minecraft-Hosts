@@ -1,6 +1,6 @@
 # Free Minecraft Hosts List!
 
-# I decided to concentrate the updates on the website: http://fmhl.free.nf/ I won't let the github list rotting but I won't update as much as the website
+# I decided to concentrate the updates on the website: https://fmhl.devloo.xyz/ I won't let the github list rotting but I won't update as much as the website
 
 <div align='center'>
 
