@@ -1,7 +1,8 @@
 # Free Minecraft Hosts List!
 
-# I decided to concentrate the updates on the website: https://fmhl.devloo.xyz/ I won't let the github list rotting but I won't update as much as the website
+# I decided to concentrate the updates on the website: https://fmhl.devloo.xyz/ I won't let the github list rotting but I won't update as much as the website.
 
+# The website is fully operational; if you have suggestions, please contact us at fmhl@devloo.xyz. We are always open to new ideas!
 <div align='center'>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Myuui/Free-Minecraft-Hosts?style=for-the-badge&logo=Github&logoColor=white&color=E3B341) 
@@ -21,7 +22,7 @@
 
 > [!NOTE]
 > ### Website in work.
-> ## PREVIEW HERE! http://fmhl.free.nf/
+> ## PREVIEW HERE! https://fmhl.devloo.xyz/
 > 
 
 
