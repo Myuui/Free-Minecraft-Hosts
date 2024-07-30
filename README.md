@@ -16,7 +16,7 @@
 
 <div align='center'>
 
-# [**EDIT OR ADD A SERVICE ON THIS FORM RIGHT HERE!!!**](https://forms.gle/sEfDp2U2VpEuRyyU9)
+# [**EDIT OR ADD A SERVICE ON OUR DISCORD!!!**](https://discord.com/invite/QmgAFzasaP)
 
 </div>
 
