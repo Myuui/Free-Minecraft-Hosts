@@ -21,8 +21,7 @@
 </div>
 
 > [!NOTE]
-> ### Website is done, but may be updated time to time.
-> ## Official website! https://fmhl.devloo.xyz/
+> Get the latest updates in https://fmhl.devloo.xyz/
 > 
 
 
