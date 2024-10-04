@@ -32,6 +32,7 @@
 
 | Name | RAM | Storage | Player Slots | Reviews Score | Performance Score | Locations | CPU Model | 24/7 | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [MineKeep](https://minekeep.net) | 1GB | 10GB | 10 | 4.1 | Single: 0, Multi: 0 | Germany | 5.7GHz (AMD Ryzen™ 9 7950X3D) | Yes | Offers a central hub on play.minekeep.net, through which user servers can be discovered. All public servers are automatically advertised for free to help with gaining new players. |
 | MineStrator | 4GB | 4GB | Unlimited | 4.8 | Single: 301, Multi: 1178 | France | 3.7GHz (EPYC 7543P) | Yes | Website not fully translated to English |
 | MCProhosting | 2GB | ~4GB | 5 | 4.8 | Single: 0, Multi: 0 | Unknown | 3.8GHz (Ryzen 7 PRO 1700X) | Yes | Currently out of stock on this item so orders for it have been suspended until more stock is available. |
 | ServerTux | 1GB+ | 30GB | Unlimited | 4.7 | Single: 0, Multi: 0 | USA | 4.9GHz (AMD Ryzen 5950X) | Yes | Virtual currency that can be used for better hardware, At the creation of your account you start with 205 Tux tokens and earn 5 per daily connect to their website. Out of Stock (08/07/24) |
