@@ -447,7 +447,8 @@
                               <h3>Common Mistakes:</h3>
                               <ul>
                                  <li><strong>Gigahertz Myth:</strong> When selecting CPUs for your Minecraft server, do not use the clock speed rating to compare two CPUs unless they are of same model and manufacture. Please refer to <a href="https://pcpartpicker.com/forums/topic/152736-the-gigahertz-myth">Gigahertz Myth</a> for more info.
-In short, select the latest cpu architecture and the highest single core thread rating model available.</li>
+                                    In short, select the latest cpu architecture and the highest single core thread rating model available.
+                                 </li>
                                  <li><strong>More RAM ≠ Better performance:</strong> Server performance is largely dependant on your CPU, not RAM.</li>
                               </ul>
                               <h3>Personal preference:</h3>
@@ -501,34 +502,122 @@ In short, select the latest cpu architecture and the highest single core thread 
                            <div class="card h-100 text-whiterounded-5" style="background-color: #2d3238; border-radius: 6px;">
                               <div class="d-flex flex-column h-100 p-5 pb-3">
                                  <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold" style="color:#cd7f32;">3rd</h2>
-                                 <h3 style="color: white;">Eternal Hosting</h3>
+                                 <h3 style="color: white;">Eternal Host</h3>
                                  <h5 style="color: white;">6 GB RAM, 25 GB SSD & very good cpu power</h5>
                               </div>
                            </div>
                         </div>
-                          <img width="600" height="200" src="https://media1.tenor.com/m/FTpWh5lZhKIAAAAd/jiafei.gif" alt="">
-                          <h3 style="color: white;">me</h3>
+                        <img width="600" height="200" src="https://media1.tenor.com/m/FTpWh5lZhKIAAAAd/jiafei.gif" alt="">
+                        <h3 style="color: white;">me</h3>
                      </div>
                   </div>
-                  
                   <h1></h1>
                </div>
                <p></p>
                <h1></h1>
                <div id="filter-options" class="markdown-body card" style="background-color: #282b30; padding: 24px; border-radius: 15px;">
                   <label for="filter-select" style="color: var(--color-text-secondary); font-size: 28px;">Filter by:</label>
-                  <select id="filter-select" class="form-select text-white custom-arrow" style="background-color: #2d3238; border: none;">
-                     <option value="all">All</option>
-                     <option value="ram">Min RAM</option>
-                     <option value="storage">Min Storage</option>
-                  </select>
-                  <p></p>
+                  <div class="btn-group d-flex mb-3">
+                     <button class="btn btn-dark flex-fill filter-btn active" data-filter="all">All</button>
+                     <button class="btn btn-dark flex-fill filter-btn" data-filter="ram">Min RAM</button>
+                     <button class="btn btn-dark flex-fill filter-btn" data-filter="storage">Min Storage</button>
+                     <button class="btn btn-dark flex-fill filter-btn" data-filter="location">Location</button>
+                  </div>
                   <input type="text" id="search-input" placeholder="Search..." class="form-control text-white" style="background-color: #2d3238; border: none;">
+                  <h3 id="location-heading" class="text-white mt-3" style="display: none; color: transparent; font-size: 0px;"></h3>
                </div>
+               <script>
+                  document.addEventListener("DOMContentLoaded", function () {
+                      const containers = document.querySelectorAll(".container");
+                      const filterButtons = document.querySelectorAll(".filter-btn");
+                      const searchInput = document.getElementById("search-input");
+                      const locationHeading = document.getElementById("location-heading");
+                      const parent = document.querySelector(".grid-container");
+                  
+                      function getRating(container) {
+                          const ratingElement = container.querySelector(".rating span");
+                          if (ratingElement) {
+                              const ratingText = ratingElement.textContent.trim();
+                              const rating = parseFloat(ratingText);
+                              return isNaN(rating) ? 0 : rating;
+                          }
+                          return 0;
+                      }
+                  
+                      function filterAndSort(filter) {
+                          const searchTerm = searchInput.value.trim().toLowerCase();
+                          const sortedContainers = Array.from(containers).sort((a, b) => {
+                              const ratingA = getRating(a);
+                              const ratingB = getRating(b);
+                  
+                              if (a.dataset.location === "Unknown" && b.dataset.location !== "Unknown") return 1;
+                              if (b.dataset.location === "Unknown" && a.dataset.location !== "Unknown") return -1;
+                  
+                              return ratingB - ratingA;
+                          });
+                  
+                          let locationSet = new Set();
+                  
+                          const filteredContainers = sortedContainers.filter(container => {
+                              const ramElement = container.querySelector(".text-line:nth-child(2) .text-highlight");
+                              const ramText = ramElement ? ramElement.textContent.trim().toLowerCase() : "";
+                  
+                              const storageElement = container.querySelector(".text-line:nth-child(3) .text-highlight");
+                              const storageText = storageElement ? storageElement.textContent.trim().toLowerCase() : "";
+                  
+                              const titleElement = container.querySelector(".title");
+                              const titleText = titleElement ? titleElement.textContent.trim().toLowerCase() : "";
+                  
+                              const locationText = container.dataset.location.toLowerCase();
+                  
+                              let meetsFilter = true;
+                  
+                              if (filter === "ram") {
+                                  meetsFilter = ramText.includes(searchTerm);
+                              } else if (filter === "storage") {
+                                  meetsFilter = storageText.includes(searchTerm);
+                              } else if (filter === "location") {
+                                  meetsFilter = locationText.includes(searchTerm);
+                                  if (meetsFilter) locationSet.add(container.dataset.location);
+                              } else {
+                                  meetsFilter = titleText.includes(searchTerm);
+                              }
+                  
+                              return meetsFilter;
+                          });
+                  
+                          if (filter === "location" && locationSet.size > 0) {
+                              locationHeading.innerText = `Showing results for: ${Array.from(locationSet).join(", ")}`;
+                              locationHeading.style.display = "block";
+                          } else {
+                              locationHeading.style.display = "none";
+                          }
+                  
+                          parent.innerHTML = "";
+                          filteredContainers.forEach(container => parent.appendChild(container));
+                      }
+                  
+                      filterButtons.forEach(button => {
+                          button.addEventListener("click", function () {
+                              filterButtons.forEach(btn => btn.classList.remove("active"));
+                              this.classList.add("active");
+                              filterAndSort(this.getAttribute("data-filter"));
+                          });
+                      });
+                  
+                      searchInput.addEventListener("input", () => {
+                          const activeFilter = document.querySelector(".filter-btn.active").getAttribute("data-filter");
+                          filterAndSort(activeFilter);
+                      });
+                  
+                      filterAndSort("all");
+                  });
+                  
+               </script>
                <p></p>
                <h1></h1>
                <div class="grid-container">
-                  <div class="container">
+                  <div class="container" data-location="France">
                      <div class="icon-box">
                         <img src="logos/minestr.png" alt="Icon">
                      </div>
@@ -590,7 +679,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany">
                      <div class="icon-box">
                         <img src="logos/servertux.png" alt="Icon">
                      </div>
@@ -652,7 +741,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="France / Canada">
                      <div class="icon-box">
                         <img src="logos/serverpro.png" alt="Icon">
                      </div>
@@ -697,7 +786,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                            <div class="text-line">
                               <span>CPU:</span>
                               <span class="text-highlight">2.9 GHz (Epyc 7351P)</span>
-                              <img src="https://www.generation-net.com/media/0/3929270_0_0.jpg" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
+                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/346.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
                                  <span class="text-highlight">❌</span>
@@ -714,7 +803,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany">
                      <div class="icon-box">
                         <img src="logos/alter.png" alt="Icon">
                      </div>
@@ -776,7 +865,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Canada / France / United Kingdom / USA / Australia / Germany / Poland / Singapore / India">
                      <div class="icon-box">
                         <img src="logos/scala.png" alt="Icon">
                      </div>
@@ -790,7 +879,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </div>
                         <div class="text-line">
                            <span>Storage:</span>
-                           <span class="text-highlight">21 GB</span>
+                           <span class="text-highlight">30 GB</span>
                            <div class="rating">
                               <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
                               <span>4.1<span class="star">★</span></span>
@@ -837,7 +926,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany">
                      <div class="icon-box">
                         <img src="logos/falix.png" alt="Icon">
                      </div>
@@ -899,7 +988,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany">
                      <div class="icon-box">
                         <img src="logos/magma.png" alt="Icon">
                      </div>
@@ -961,7 +1050,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="USA / Germany / France">
                      <div class="icon-box">
                         <img src="logos/freemcserver.png" alt="Icon">
                      </div>
@@ -1023,7 +1112,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany / Finland">
                      <div class="icon-box">
                         <img src="logos/gaming4free.png" alt="Icon">
                      </div>
@@ -1085,7 +1174,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container flicker-box">
+                  <div class="container flicker-box" data-location="Germany / UK">
                      <div class="warning"></div>
                      <div class="icon-box">
                         <img src="logos/eugamehost.png" alt="Icon">
@@ -1149,7 +1238,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany / USA/ Finland">
                      <div class="icon-box">
                         <img src="logos/fps.png" alt="Icon">
                      </div>
@@ -1211,7 +1300,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany / Britain / Sweden / India">
                      <div class="icon-box">
                         <img src="logos/host2play.png" alt="Icon">
                      </div>
@@ -1272,7 +1361,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany / USA">
                      <div class="icon-box">
                         <img src="logos/axent.png" alt="Icon">
                      </div>
@@ -1333,7 +1422,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="All regions">
                      <div class="icon-box">
                         <img src="logos/googlecloud.png" alt="Icon">
                      </div>
@@ -1396,7 +1485,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Unknown">
                      <div class="icon-box">
                         <img src="logos/codespaces.png" alt="Icon">
                      </div>
@@ -1458,7 +1547,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Russia">
                      <div class="icon-box">
                         <img src="logos/superhub.png" alt="Icon">
                      </div>
@@ -1508,7 +1597,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                                  <span class="text-highlight">✅</span>
                               </div>
                            </div>
-                           <p>Notes: Russian website. Info by: nikitpixel</p>
+                           <p>Notes: Russian website, out of stock (26/01/25). Info by: nikitpixel</p>
                            </div>
                            </div>
                            `,
@@ -1519,7 +1608,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Finland">
                      <div class="icon-box">
                         <img src="logos/axsoter.png" alt="Icon">
                      </div>
@@ -1581,7 +1670,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany / Singapore / USA">
                      <div class="icon-box">
                         <img src="logos/hikari.png" alt="Icon">
                      </div>
@@ -1643,7 +1732,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="India">
                      <div class="icon-box">
                         <img src="logos/plexa.png" alt="Icon">
                      </div>
@@ -1651,13 +1740,13 @@ In short, select the latest cpu architecture and the highest single core thread 
                         <div class="title">PlexaNodes</div>
                         <div class="text-line">
                            <span>RAM:</span>
-                           <span class="text-highlight">2 GB</span>
+                           <span class="text-highlight">2+ GB</span>
                            <span>Player slots:</span>
                            <span class="text-highlight">Unlimited</span>
                         </div>
                         <div class="text-line">
                            <span>Storage:</span>
-                           <span class="text-highlight">5 GB</span>
+                           <span class="text-highlight">5+ GB</span>
                            <div class="rating">
                               <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
                               <span>4.5<span class="star">★</span></span>
@@ -1705,7 +1794,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="USA">
                      <div class="icon-box">
                         <img src="logos/mymc.png" alt="Icon">
                      </div>
@@ -1767,7 +1856,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Unknown">
                      <div class="icon-box">
                         <img src="logos/gameservergratis.png" alt="Icon">
                      </div>
@@ -1829,7 +1918,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="USA">
                      <div class="icon-box">
                         <img src="logos/minecord.png" alt="Icon">
                      </div>
@@ -1890,7 +1979,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Unknown">
                      <div class="icon-box">
                         <img src="logos/servox.png" alt="Icon">
                      </div>
@@ -1928,14 +2017,14 @@ In short, select the latest cpu architecture and the highest single core thread 
                            <div class="title">Servox</div>
                            <div class="text-line">
                               <span>Performance:</span>
-                              <span class="text-highlight">Single: 194  Multi: 503</span>
+                              <span class="text-highlight">Single: 0  Multi: 0</span>
                               <span>Location:</span>
                               <span class="text-highlight">Unknown</span>
                            </div>
                            <div class="text-line">
                               <span>CPU:</span>
-                              <span class="text-highlight">3 GHz (Xeon Silver 4114)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/414.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
+                              <span class="text-highlight">3.8 GHz (EPYC 7371)</span>
+                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/346.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
                                  <span class="text-highlight">❌</span>
@@ -1952,7 +2041,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Unknown">
                      <div class="icon-box">
                         <img src="logos/colab.png" alt="Icon">
                      </div>
@@ -2015,12 +2104,12 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                 <div class="container">
+                  <div class="container" data-location="Finland / Germany">
                      <div class="icon-box">
                         <img src="logos/eternal.png" alt="Icon">
                      </div>
                      <div class="content">
-                        <div class="title">Eternal Hosting</div>
+                        <div class="title">Eternal Host</div>
                         <div class="text-line">
                            <span>RAM:</span>
                            <span class="text-highlight">6 GB</span>
@@ -2032,11 +2121,11 @@ In short, select the latest cpu architecture and the highest single core thread 
                            <span class="text-highlight">25 GB</span>
                            <div class="rating">
                               <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.6<span class="star">★</span></span>
+                              <span>4.7<span class="star">★</span></span>
                            </div>
                         </div>
                         <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://free.eternalhosting.cloud/" onclick="#" target="_blank">Get Started</a> 
+                           <a class="btn btn-secondary" href="https://eternalhosting.cloud/Free-Servers" onclick="#" target="_blank">Get Started</a> 
                            <button onclick="showMore58() " class="btn btn-secondary">More Info</button>
                         </div>
                         <script>
@@ -2050,7 +2139,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                              <img src="logos/eternal.png" alt="Icon">
                            </div>
                            <div class="content">
-                           <div class="title">Eternal Hosting</div>
+                           <div class="title">Eternal Host</div>
                            <div class="text-line">
                               <span>Performance:</span>
                               <span class="text-highlight">Single: 248 Multi: 1061</span>
@@ -2066,7 +2155,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                                  <span class="text-highlight">✅</span>
                               </div>
                            </div>
-                           <p>Notes: up to 300% and 6 GB of RAM for modded servers, Daily Renewal thru coin system.
+                           <p>Notes: up to 300% and 6 GB of RAM for modded servers, 24/7 available if daily renewal (up to 3d in 5m).
                            </div>
                            </div>
                            `,
@@ -2077,11 +2166,11 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                 <div class="container">
+                  <div class="container" data-location="Sweden">
                      <div class="icon-box">
                         <img src="logos/minex.png" alt="Icon">
                      </div>
-                        <div class="content">
+                     <div class="content">
                         <div class="title">Minexnodes</div>
                         <div class="text-line">
                            <span>RAM:</span>
@@ -2138,11 +2227,11 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany / India">
                      <div class="icon-box">
                         <img src="logos/wraith.png" alt="Icon">
                      </div>
-                        <div class="content">
+                     <div class="content">
                         <div class="title">WraithNodes</div>
                         <div class="text-line">
                            <span>RAM:</span>
@@ -2200,11 +2289,11 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany">
                      <div class="icon-box">
                         <img src="https://i.imgur.com/DyAYthn.png" alt="Icon">
                      </div>
-                        <div class="content">
+                     <div class="content">
                         <div class="title">MoonNodes</div>
                         <div class="text-line">
                            <span>RAM:</span>
@@ -2262,11 +2351,11 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-		  <div class="container">
+                  <div class="container" data-location="Germany / USA / Belgium">
                      <div class="icon-box">
                         <img src="https://www.mcserverhost.com/style/media/brand/logo-icon.svg" alt="Icon">
                      </div>
-                        <div class="content">
+                     <div class="content">
                         <div class="title">MCServerHost</div>
                         <div class="text-line">
                            <span>RAM:</span>
@@ -2324,11 +2413,11 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-		  <div class="container">
+                  <div class="container" data-location="Germany">
                      <div class="icon-box">
                         <img src="https://i.imgur.com/gVFyv85.png" alt="Icon">
                      </div>
-                        <div class="content">
+                     <div class="content">
                         <div class="title">Ruxtix</div>
                         <div class="text-line">
                            <span>RAM:</span>
@@ -2386,11 +2475,11 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany">
                      <div class="icon-box">
                         <img src="https://images-ext-1.discordapp.net/external/6bUWnwsMYGag6zhbjkqrpE-NHnlou3Ww4OvVutTeSXg/https/imgur.com/6lTebaB.png" alt="Icon">
                      </div>
-                        <div class="content">
+                     <div class="content">
                         <div class="title">FreeMinecraftHost</div>
                         <div class="text-line">
                            <span>RAM:</span>
@@ -2448,11 +2537,11 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Hong Kong / USA">
                      <div class="icon-box">
-                        <img src="https://media.discordapp.net/attachments/1327271904419123281/1328051887416545381/5nAXjsu.png?ex=67854c33&is=6783fab3&hm=f1415facb05758661988fa8482e5af8dec072494a4ba4cac840ca95b25e6fa7a" alt="Icon">
+                        <img src="https://i.imgur.com/N5MK8BT.png" alt="Icon">
                      </div>
-                        <div class="content">
+                     <div class="content">
                         <div class="title">Quvo</div>
                         <div class="text-line">
                            <span>RAM:</span>
@@ -2480,7 +2569,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                            html: `
                            <div class="container">
                            <div class="icon-box">
-                             <img src="https://media.discordapp.net/attachments/1327271904419123281/1328051887416545381/5nAXjsu.png?ex=67854c33&is=6783fab3&hm=f1415facb05758661988fa8482e5af8dec072494a4ba4cac840ca95b25e6fa7a" alt="Icon">
+                             <img src="https://i.imgur.com/N5MK8BT.png" alt="Icon">
                            </div>
                            <div class="content">
                            <div class="title">Quvo</div>
@@ -2510,11 +2599,11 @@ In short, select the latest cpu architecture and the highest single core thread 
                         </script>
                      </div>
                   </div>
-                  <div class="container">
+                  <div class="container" data-location="Germany / USA / Spain / Mexico / Singapore">
                      <div class="icon-box">
-                        <img src="https://media.discordapp.net/attachments/1266196860566245427/1331585285645008927/cropped-96499875cead733b47c964f410bec878939b9f2b44bd9df49c891fd3858df9961.png?ex=679226ef&is=6790d56f&hm=fe8635681f19ce483ebb4e59df529df0be9e6e41727f38b97c7c9f0fd0afe8bd&=&format=webp&quality=lossless" alt="Icon">
+                        <img src="https://www.hidencloud.com/assets/logo.png" alt="Icon">
                      </div>
-                        <div class="content">
+                     <div class="content">
                         <div class="title">HidenCloud</div>
                         <div class="text-line">
                            <span>RAM:</span>
@@ -2542,7 +2631,7 @@ In short, select the latest cpu architecture and the highest single core thread 
                            html: `
                            <div class="container">
                            <div class="icon-box">
-                             <img src="https://media.discordapp.net/attachments/1266196860566245427/1331585285645008927/cropped-96499875cead733b47c964f410bec878939b9f2b44bd9df49c891fd3858df9961.png?ex=679226ef&is=6790d56f&hm=fe8635681f19ce483ebb4e59df529df0be9e6e41727f38b97c7c9f0fd0afe8bd&=&format=webp&quality=lossless" alt="Icon">
+                             <img src="https://www.hidencloud.com/assets/logo.png" alt="Icon">
                            </div>
                            <div class="content">
                            <div class="title">HidenCloud</div>
@@ -2562,6 +2651,68 @@ In short, select the latest cpu architecture and the highest single core thread 
                               </div>
                            </div>
                            <p>Notes: Added by fatih1kkk.
+                           </div>
+                           </div>
+                           `,
+                           showCloseButton: true,
+                           showConfirmButton: false,
+                           });
+                           }
+                        </script>
+                     </div>
+                  </div>
+                  <div class="container" data-location="Finland">
+                     <div class="icon-box">
+                        <img src="https://consumersiteimages.trustpilot.net/business-units/66245c52f6a0863f5cb45db8-198x149-1x.avif" alt="Icon">
+                     </div>
+                     <div class="content">
+                        <div class="title">Hosting Mit Herz</div>
+                        <div class="text-line">
+                           <span>RAM:</span>
+                           <span class="text-highlight">3 GB</span>
+                           <span>Player slots:</span>
+                           <span class="text-highlight">Unlimited</span>
+                        </div>
+                        <div class="text-line">
+                           <span>Storage:</span>
+                           <span class="text-highlight">10 GB</span>
+                           <div class="rating">
+                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
+                              <span>4.7<span class="star">★</span></span>
+                           </div>
+                        </div>
+                        <div class="btn-toolbar">
+                           <a class="btn btn-secondary" href="https://hostingmitherz.de/" onclick="#" target="_blank">Get Started</a> 
+                           <button onclick="showMore69() " class="btn btn-secondary">More Info</button>
+                        </div>
+                        <script>
+                           function showMore69() {
+                           Swal.fire({
+                           title: "More Info<p></p>",
+                           icon: "",
+                           html: `
+                           <div class="container">
+                           <div class="icon-box">
+                             <img src="https://consumersiteimages.trustpilot.net/business-units/66245c52f6a0863f5cb45db8-198x149-1x.avif" alt="Icon">
+                           </div>
+                           <div class="content">
+                           <div class="title">Hosting Mit Herz</div>
+                           <div class="text-line">
+                              <span>Performance:</span>
+                              <span class="text-highlight">Single: 329 Multi: 484</span>
+                              <span>Location:</span>
+                              <span class="text-highlight">Finland</span>
+                           </div>
+                           <div class="text-line">
+                              <span>CPU:</span>
+                              <span class="text-highlight">3.9 GHz (Xeon® Gold 5412U)</span>
+                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/631.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
+                              <div class="rating">
+                                 <span>24/7</span>
+                                 <span class="text-highlight">✅</span>
+                              </div>
+                           </div>
+                           <p>Notes: DDR5 ram, Hibernation plugin in all servers.
                            </div>
                            </div>
                            `,
@@ -2713,79 +2864,6 @@ In short, select the latest cpu architecture and the highest single core thread 
                   
                </script>
                <script>
-                  document.addEventListener("DOMContentLoaded", function() {
-                      const containers = document.querySelectorAll('.container'); // Select all containers
-                      const filterSelect = document.getElementById('filter-select');
-                      const searchInput = document.getElementById('search-input');
-                  
-                      // Attach event listeners for the filter and search
-                      filterSelect.addEventListener('change', filterAndSort);
-                      searchInput.addEventListener('input', filterAndSort);
-                  
-                      // Safely get the rating of the container
-                      function getRating(container) {
-                          const ratingElement = container.querySelector('.rating span');
-                          if (ratingElement) {
-                              const ratingText = ratingElement.textContent.trim();
-                              const rating = parseFloat(ratingText);
-                              return isNaN(rating) ? 0 : rating; // Return 0 if rating is not a valid number
-                          }
-                          return 0; // Return 0 if .rating span does not exist
-                      }
-                  
-                  function filterAndSort() {
-                      const filterBy = filterSelect.value;
-                      const searchTerm = searchInput.value.trim().toLowerCase();
-                  
-                      // Sort containers by rating in descending order
-                      const sortedContainers = Array.from(containers).sort((a, b) => {
-                          const ratingA = getRating(a);
-                          const ratingB = getRating(b);
-                          return ratingB - ratingA; // Sort by rating (highest first)
-                      });
-                  
-                      // Filter the containers based on search/filter criteria
-                      const filteredContainers = sortedContainers.filter(container => {
-                          // Safely get the RAM text
-                          const ramElement = container.querySelector('.text-line:nth-child(2) .text-highlight');
-                          const ramText = ramElement ? ramElement.textContent.trim().toLowerCase() : '';
-                  
-                          // Safely get the Storage text
-                          const storageElement = container.querySelector('.text-line:nth-child(3) .text-highlight');
-                          const storageText = storageElement ? storageElement.textContent.trim().toLowerCase() : '';
-                  
-                          // Safely get the Title text
-                          const titleElement = container.querySelector('.title');
-                          const titleText = titleElement ? titleElement.textContent.trim().toLowerCase() : '';
-                  
-                          let meetsFilter = true;
-                  
-                          // Apply the selected filter (RAM or Storage)
-                          if (filterBy === 'ram') {
-                              meetsFilter = ramText.includes(searchTerm);
-                          } else if (filterBy === 'storage') {
-                              meetsFilter = storageText.includes(searchTerm);
-                          } else {
-                              meetsFilter = titleText.includes(searchTerm);
-                          }
-                  
-                          return meetsFilter; // Return true if the item matches the filter
-                      });
-                  
-                      // Update the DOM with the filtered and sorted containers
-                      const parent = document.querySelector('.grid-container'); // Use the .grid-container class
-                      parent.innerHTML = ''; // Clear the current contents
-                  
-                      // Append each filtered container back into the grid-container
-                      filteredContainers.forEach(container => parent.appendChild(container));
-                  }
-                  
-                      filterAndSort(); // Initial call to display sorted/filtered content
-                  });
-                  
-                        
-               </script>
-               <script>
                   document.addEventListener('DOMContentLoaded', function() {
                      const container = document.querySelector('.flicker-box');
                      
@@ -2817,7 +2895,6 @@ In short, select the latest cpu architecture and the highest single core thread 
                   
                   gtag('config', 'G-YKC9DFBX2P');
                </script>
-               
             </main>
          </div>
       </div>
