@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en-US">
    <head>
@@ -74,9 +75,6 @@
       <div>
       <main>
       <div>
-         <div style="padding: 6px;">
-            <p></p>
-         </div>
       </div>
       <p></p>
       <h1></h1>
@@ -85,20 +83,19 @@
       <p style="color: var(--color-text-secondary); font-size: 18px;">
         This documentation list is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You are free to copy and redistribute this documentation in any medium or format, as long as proper credit is given to Myuui as the original creator. However, you are not allowed to modify, adapt, or create derivative works based on this documentation list.</p>
       <p style="color: var(--color-text-secondary); font-size: 18px;">
-        Any commercial use of this documentation list is strictly prohibited without explicit written permission from Myuui. For any inquiries regarding commercial use or potential modifications, please contact fmhl@devloo.xyz</p>
+        Any commercial use of this documentation list is strictly prohibited without explicit written permission from Myuui. For any inquiries regarding commercial use or potential modifications, please contact <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c2a4afaaae82a6a7b4aeadadecbabbb8">[email&#160;protected]</a></p>
       <p style="color: var(--color-text-secondary); font-size: 18px;">
         By accessing or using this documentation list, you agree to abide by the terms of the Creative Commons license mentioned above.</p>
       <p style="color: var(--color-text-secondary); font-size: 18px;">
-        Myuui 27/07/2023</p>
-                    <a href="https://fmhl.devloo.xyz/" class="btn btn-secondary">Back Home</a>
+        Myuui 28/03/2025</p>
+                    <a href="https://fmhl.berserk.sbs/" class="btn btn-secondary">Back Home</a>
       </div>
       <p></p>
       <h1></h1>
       <div class="markdown-body card" style="padding: 12px; background-color: #282b30; border-radius: 15px;">
-         <h2 style="color: var(--color-text-secondary);"> &copy; 2024 FMHL. All rights reserved.</h2>
+         <h2 style="color: var(--color-text-secondary);"> &copy; 2025 FMHL. All rights reserved.</h2>
       </div>
-      <click-spark></click-spark>
-      <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+      <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-YKC9DFBX2P"></script>
       <script>
@@ -108,111 +105,6 @@
 
       gtag('config', 'G-YKC9DFBX2P');
       </script>
-      <script>
-         class ClickSpark extends HTMLElement {
-         constructor() {
-         super();
-         this.attachShadow({ mode: "open" });
-         this.root = document.documentElement;
-         this.svg;
-         }
-         
-         get activeEls() {
-         return this.getAttribute("active-on");
-         }
-         
-         connectedCallback() {
-         this.setupSpark();
-         
-         this.root.addEventListener("click", (e) => {
-         if (this.activeEls && !e.target.matches(this.activeEls)) return;
-         
-         this.setSparkPosition(e);
-         this.animateSpark();
-         });
-         }
-         
-         animateSpark() {
-         let sparks = [...this.svg.children];
-         let size = parseInt(sparks[0].getAttribute("y1"));
-         let offset = size / 2 + "px";
-         
-         let keyframes = (i) => {
-         let deg = `calc(${i} * (360deg / ${sparks.length}))`;
-         
-         return [
-         {
-         strokeDashoffset: size * 3,
-         transform: `rotate(${deg}) translateY(${offset})`
-         },
-         {
-         strokeDashoffset: size,
-         transform: `rotate(${deg}) translateY(0)`
-         }
-         ];
-         };
-         
-         let options = {
-         duration: 660,
-         easing: "cubic-bezier(0.25, 1, 0.5, 1)",
-         fill: "forwards"
-         };
-         
-         sparks.forEach((spark, i) => spark.animate(keyframes(i), options));
-         }
-         
-         setSparkPosition(e) {
-         let rect = this.root.getBoundingClientRect();
-         
-         this.svg.style.left =
-         e.clientX - rect.left - this.svg.clientWidth / 2 + "px";
-         this.svg.style.top =
-         e.clientY - rect.top - this.svg.clientHeight / 2 + "px";
-         }
-         
-         setupSpark() {
-         let template = `
-         <style>
-         :host {
-         display: contents;
-         }
-         
-         svg {
-         pointer-events: none;
-         position: absolute;
-         rotate: -20deg;
-         stroke: var(--click-spark-color, currentcolor);
-         }
-         
-         line {
-         stroke-dasharray: 30;
-         stroke-dashoffset: 30;
-         transform-origin: center;
-         }
-         </style>
-         <svg width="30" height="30" viewBox="0 0 100 100" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-         ${Array.from(
-         { length: 8 },
-         (_) => `<line x1="50" y1="30" x2="50" y2="4"/>`
-         ).join("")}
-         </svg>
-         `;
-         
-         this.shadowRoot.innerHTML = template;
-         this.svg = this.shadowRoot.querySelector("svg");
-         }
-         }
-         
-         customElements.define("click-spark", ClickSpark);
-         
-         
-         const spark = document.querySelector("click-spark");
-         const colorPicker = document.getElementById("click-spark-color");
-         
-         colorPicker.addEventListener("change", (e) => {
-         spark.style.setProperty("--click-spark-color", e.target.value);
-         });
-         
-      </script>
-   </body>
+   <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"92a3035ffccde65f","version":"2025.3.0","r":1,"token":"4ab08b53f95349a6a06e9f68b9709110","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}}}' crossorigin="anonymous"></script>
+</body>
 </html>
