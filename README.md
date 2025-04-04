@@ -2,7 +2,7 @@
 
 # I decided to concentrate the updates on the website: (https://fmhl.berserk.sbs/) I won't let the github list rotting but I won't update as much as the website.
 
-# The website is fully operational; if you have suggestions, please contact us at devloo@devloohosting.one. We are always open to new ideas!
+# The website is fully operational; if you have suggestions, please contact us at devloo@berserk.sbs. We are always open to new ideas!
 <div align='center'>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Myuui/Free-Minecraft-Hosts?style=for-the-badge&logo=Github&logoColor=white&color=E3B341) 
