@@ -20,6 +20,57 @@
       <link href="css/float.css" rel="stylesheet">
       <link href="css/mobile.css" rel="stylesheet">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <style>
+          .text-line > span,
+.text-line > img {
+    margin-right: 8px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+}
+@media only screen and (max-width: 1600px) {
+.grid-container {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-gap: 10px;
+}
+@media only screen and (max-width: 1400px) {
+.grid-container {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-gap: 10px;
+}
+@media only screen and (max-width: 1200px) {
+.grid-container {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-gap: 10px;
+}
+}
+@media only screen and (max-width: 1000px) {
+.grid-container {
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-gap: 10px;
+}
+}
+@media only screen and (max-width: 800px) {
+.grid-container {
+display: grid;
+grid-template-columns: repeat(1, 1fr);
+grid-gap: 10px;
+}
+}
+@media only screen and (max-width: 600px) {
+.grid-container {
+display: grid;
+grid-template-columns: repeat(1, 1fr);
+grid-gap: 10px;
+}
+}
+      </style>
    </head>
    <body>
       <div id="floatingElement" class="bg-dark">
@@ -28,7 +79,7 @@
       </div>
       <div id="floatingElement2" class="bg-dark">
          <img src="flags/Check.svg" alt="Icon"> 
-         <div class="text">Last Updated 06 / 04 / 2025</div>
+         <div class="text">Last Updated 06 / 27 / 2025</div>
       </div>
       <div>
          <div>
@@ -115,67 +166,6 @@
                <p></p>
                <h1></h1>
                <div class="grid-container">
-                 <div class="container" data-location="Germany / USA / UK">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/S91Xkow.png&" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Devloo Hosting</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;"><img src="flags/USA.svg" height="27" style="margin-right: 5px;"><img src="flags/UK.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">2.5 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>4<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary">Unnavailable</a> 
-                           <button onclick="showMore1231() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore1231() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="https://i.imgur.com/S91Xkow.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Devloo Hosting</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: n/a Multi: n/a</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany / USA / UK</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">Shared Cores</span>
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Owned by Devloo in the fhl server as a owner.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
                   <div class="container" data-location="France">
                      <div class="icon-box">
                         <img src="logos/minestr.png" alt="Icon">
@@ -220,7 +210,7 @@
                            </div>
                            <div class="text-line">
                               <span>CPU:</span>
-                              <span class="text-highlight">4 GHz (Xeon Gold 6230R)</span>
+                              <span class="text-highlight">100% (Xeon Gold 6230R)</span>
                               <img src="https://www.techpowerup.com/cpu-specs/images/generations/560.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
@@ -338,13 +328,13 @@
                            <div class="title">Falix</div>
                            <div class="text-line">
                               <span>Performance:</span>
-                              <span class="text-highlight">Single: 209  Multi: 529</span>
+                              <span class="text-highlight">Single: 316  Multi: 590</span>
                               <span>Location:</span>
                               <span class="text-highlight">Germany</span>
                            </div>
                            <div class="text-line">
                               <span>CPU:</span>
-                              <span class="text-highlight">3.9 GHz (Xeon Gold 5412U)</span>
+                              <span class="text-highlight">200% (Ryzen 9 7950X3D)</span>
                               <img src="https://www.techpowerup.com/cpu-specs/images/generations/631.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
@@ -406,7 +396,7 @@
                            </div>
                            <div class="text-line">
                               <span>CPU:</span>
-                              <span class="text-highlight">5.7GHz (Ryzen 9 7950X3D)</span>
+                              <span class="text-highlight">200% (Ryzen 9 7950X3D)</span>
                               <img src="https://i.imgur.com/rseAFOQ.jpeg" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
@@ -654,13 +644,13 @@
                            </div>
                            <div class="text-line">
                               <span>CPU:</span>
-                              <span class="text-highlight">Unknown</span>
+                              <span class="text-highlight">300% </span>
                               <div class="rating">
                                  <span>24/7</span>
                                  <span class="text-highlight">❌</span>
                               </div>
                            </div>
-                           <p>Notes: Up to 300% for CPU, renew system.</p>
+                           <p>Notes: renew system.</p>
                            </div>
                            </div>
                            `,
@@ -1149,7 +1139,7 @@
                            </div>
                            <div class="text-line">
                               <span>CPU:</span>
-                              <span class="text-highlight">3 GHz (Neoverse N1)</span>
+                              <span class="text-highlight">100% (Neoverse N1)</span>
                               <img src="https://tpucdn.com/images/news/arm-v1738672025795.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
@@ -1177,7 +1167,7 @@
                            <span>RAM:</span>
                            <span class="text-highlight">4 GB</span>
                            <span>Locations:</span>
-                           <img src="flags/Germany.svg" alt="Germany" height="27" style="margin-right: 5px;"><img src="flags/USA.svg" alt="USA" height="27" style="margin-right: 5px;"><img src="flags/Belgium.svg" alt="Belgium" height="27">
+                           <img src="flags/USA.svg" alt="USA" height="27" style="margin-right: 5px;"><img src="flags/Belgium.svg" alt="Belgium" height="27">
                         </div>
                         <div class="text-line">
                            <span>Storage:</span>
@@ -1207,11 +1197,11 @@
                               <span>Performance:</span>
                               <span class="text-highlight">Single: 342 Multi: 956</span>
                               <span>Location:</span>
-                              <span class="text-highlight">Belgium, Germany & USA</span>
+                              <span class="text-highlight">Belgium & USA</span>
                            </div>
                            <div class="text-line">
                               <span>CPU:</span>
-                              <span class="text-highlight">4.5 GHz (Ryzen Threadripper PRO 5955WX)</span>
+                              <span class="text-highlight">200% (Ryzen 9 7950X3D)</span>
                               <img src="https://www.techpowerup.com/cpu-specs/images/generations/610.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
@@ -1397,7 +1387,7 @@
                            </div>
                            <div class="text-line">
                               <span>CPU:</span>
-                              <span class="text-highlight">5.7 GHz (Ryzen 9 7950X3D)</span>
+                              <span class="text-highlight">300% (Ryzen 9 7950X3D)</span>
                               <img src="https://www.techpowerup.com/cpu-specs/images/generations/639.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
@@ -1525,7 +1515,7 @@
                               <img src="https://www.techpowerup.com/cpu-specs/images/generations/346.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
+                                 <span class="text-highlight">❌</span>
                               </div>
                            </div>
                            <p>Notes: They made the panel way too simple, so it's not very usuable,
@@ -1640,13 +1630,13 @@
                            <div class="title">Vertex Hosting</div>
                            <div class="text-line">
                               <span>Performance:</span>
-                              <span class="text-highlight">Single: 303 Multi: 998</span>
+                              <span class="text-highlight">Single: 200 Multi: 492</span>
                               <span>Location:</span>
                               <span class="text-highlight">Germany</span>
                            </div>
                            <div class="text-line">
                               <span>CPU:</span>
-                              <span class="text-highlight">4 GHz (EPYC 7443P)</span>
+                              <span class="text-highlight">∞% (EPYC 7443P)</span>
                               <img src="https://www.techpowerup.com/cpu-specs/images/generations/558.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
@@ -2221,6 +2211,68 @@
                         </script>
                      </div>
                   </div>
+                  <div class="container" data-location="USA / France">
+                     <div class="icon-box">
+                        <img src="https://i.imgur.com/wpbQxCp.png" alt="Icon">
+                     </div>
+                     <div class="content">
+                        <div class="title">OuiHeberg</div>
+                        <div class="text-line">
+                           <span>RAM:</span>
+                           <span class="text-highlight">8 GB</span>
+                           <span>Locations:</span>
+                           <img src="flags/USA.svg" height="27" style="margin-right: 5px;"><img src="flags/France.svg" height="27" style="margin-right: 5px;">
+                        </div>
+                        <div class="text-line">
+                           <span>Storage:</span>
+                           <span class="text-highlight">2 GB</span>
+                           <div class="rating">
+                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
+                              <span>4.2<span class="star">★</span></span>
+                           </div>
+                        </div>
+                        <div class="btn-toolbar">
+                           <a class="btn btn-secondary" href="https://www.ouiheberg.com/en" onclick="#" target="_blank">Get Started</a> 
+                           <button onclick="showMoreOuiHeberg() " class="btn btn-secondary">More Info</button>
+                        </div>
+                        <script>
+                           function showMoreOuiHeberg() {
+                           Swal.fire({
+                           title: "More Info<p></p>",
+                           icon: "",
+                           html: `
+                           <div class="container">
+                           <div class="icon-box">
+                             <img src="https://i.imgur.com/wpbQxCp.png" alt="Icon">
+                           </div>
+                           <div class="content">
+                           <div class="title">OuiHeberg</div>
+                           <div class="text-line">
+                              <span>Performance:</span>
+                              <span class="text-highlight">Single: 210 Multi: 808</span>
+                              <span>Location:</span>
+                              <span class="text-highlight">USA & France</span>
+                           </div>
+                           <div class="text-line">
+                              <span>CPU:</span>
+                              <span class="text-highlight">400% (Xeon Gold 6148)</span>
+                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/631.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
+                              <div class="rating">
+                                 <span>24/7</span>
+                                 <span class="text-highlight">✅</span>
+                              </div>
+                           </div>
+                           <p>Notes: renew thru discord code, server up for an hour, ads in chat & no mods ; info by legeriergeek.</p>
+                           </div>
+                           </div>
+                           `,
+                           showCloseButton: true,
+                           showConfirmButton: false,
+                           });
+                           }
+                        </script>
+                     </div>
+                  </div>
                   <div class="container" data-location="USA">
                      <div class="icon-box">
                         <img src="https://i.imgur.com/vZHwEiy.png" alt="Icon">
@@ -2249,11 +2301,11 @@
                            function showMoreEmbotic() {
                            Swal.fire({
                            title: "More Info<p></p>",
-                           icon: "",
+                           icon: "https://i.imgur.com/vZHwEiy.png",
                            html: `
                            <div class="container">
                            <div class="icon-box">
-                             <img src="https://i.imgur.com/vZHwEiy.png" alt="Icon">
+                             <img src="" alt="Icon">
                            </div>
                            <div class="content">
                            <div class="title">Embotic</div>
@@ -2269,7 +2321,7 @@
                               <img src="https://www.techpowerup.com/cpu-specs/images/generations/631.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
                               <div class="rating">
                                  <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
+                                 <span class="text-highlight">❌</span>
                               </div>
                            </div>
                            <p>Notes: info by whiteik24.</p>
@@ -2286,7 +2338,11 @@
          </div>
          <p></p>
          <h1></h1>
-         <p></p>
+         
+         <div class="markdown-body card" style="background-color: #282b30; padding: 1px; border-radius: 10px; font-size: 24px;">
+                  <div class=" px-4 py-5" id="custom-cards">
+                     <h2 class="text-center fw-bold" style="background-color: #2d3238; border-radius: 6px; color: white; font-size: 33px; padding: 12px;">Need more specs at the expense of service quality? Take a look at <a href="https://flhl.berserk.sbs/" class="btn btn-secondary btn-sm">FLHL</a> in the “Newest Hosting” tab.</h2>
+         </div>
          <h1></h1>
       </div>
       <p></p>
@@ -2326,8 +2382,111 @@
          gtag('config', 'G-YKC9DFBX2P');
       </script>
       <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
-      <script src="js/filter.js"></script>
-      </main>
+      <script>
+document.addEventListener("DOMContentLoaded", function () {
+    const containers = document.querySelectorAll(".container");
+    const filterButtons = document.querySelectorAll(".filter-btn");
+    const searchInput = document.getElementById("search-input");
+    const locationHeading = document.getElementById("location-heading");
+    const parent = document.querySelector(".grid-container");
+
+    function getRating(container) {
+        const ratingElement = container.querySelector(".rating span");
+        if (ratingElement) {
+            const ratingText = ratingElement.textContent.trim();
+            const rating = parseFloat(ratingText);
+            return isNaN(rating) ? 0 : rating;
+        }
+        return 0;
+    }
+
+    function parseValue(text) {
+        const match = text.match(/(\d+(?:\.\d+)?)(\s*)(gb|tb)/i);
+        if (!match) return 0;
+        let value = parseFloat(match[1]);
+        const unit = match[3].toLowerCase();
+        return unit === "tb" ? value * 1024 : value;
+    }
+
+    function filterAndSort(filter) {
+        const searchTerm = searchInput.value.trim().toLowerCase();
+let searchValue = parseFloat(searchTerm);
+
+if ((filter === "ram" || filter === "storage") && (isNaN(searchValue) || searchTerm === "")) {
+    searchValue = 0;
+}
+
+        const sortedContainers = Array.from(containers).sort((a, b) => {
+            const ratingA = getRating(a);
+            const ratingB = getRating(b);
+
+            if (a.dataset.location === "Unknown" && b.dataset.location !== "Unknown") return 1;
+            if (b.dataset.location === "Unknown" && a.dataset.location !== "Unknown") return -1;
+
+            return ratingB - ratingA;
+        });
+
+        let locationSet = new Set();
+
+        const filteredContainers = sortedContainers.filter(container => {
+            const ramElement = container.querySelector(".text-line:nth-child(2) .text-highlight");
+            const ramText = ramElement ? ramElement.textContent.trim().toLowerCase() : "";
+
+            const storageElement = container.querySelector(".text-line:nth-child(3) .text-highlight");
+            const storageText = storageElement ? storageElement.textContent.trim().toLowerCase() : "";
+
+            const titleElement = container.querySelector(".title");
+            const titleText = titleElement ? titleElement.textContent.trim().toLowerCase() : "";
+
+            const locationText = container.dataset.location.toLowerCase();
+
+            let meetsFilter = true;
+
+            if (filter === "ram") {
+                const ramValue = parseValue(ramText);
+                meetsFilter = !isNaN(searchValue) && ramValue >= searchValue;
+            } else if (filter === "storage") {
+                const storageValue = parseValue(storageText);
+                meetsFilter = !isNaN(searchValue) && storageValue >= searchValue;
+            } else if (filter === "location") {
+                meetsFilter = locationText.includes(searchTerm);
+                if (meetsFilter) locationSet.add(container.dataset.location);
+            } else {
+                meetsFilter = titleText.includes(searchTerm);
+            }
+
+            return meetsFilter;
+        });
+
+        if (filter === "location" && locationSet.size > 0) {
+            locationHeading.innerText = `Showing results for: ${Array.from(locationSet).join(", ")}`;
+            locationHeading.style.display = "block";
+        } else {
+            locationHeading.style.display = "none";
+        }
+
+        parent.innerHTML = "";
+        filteredContainers.forEach(container => parent.appendChild(container));
+    }
+
+    filterButtons.forEach(button => {
+        button.addEventListener("click", function () {
+            filterButtons.forEach(btn => btn.classList.remove("active"));
+            this.classList.add("active");
+            filterAndSort(this.getAttribute("data-filter"));
+        });
+    });
+
+    searchInput.addEventListener("input", () => {
+        const activeFilter = document.querySelector(".filter-btn.active").getAttribute("data-filter");
+        filterAndSort(activeFilter);
+    });
+
+    filterAndSort("all");
+});
+
+
+      </script>
       </div>
       </div>
    </body>
