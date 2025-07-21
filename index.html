@@ -21,2477 +21,223 @@
       <link href="css/mobile.css" rel="stylesheet">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <style>
-          .text-line > span,
-.text-line > img {
-    margin-right: 8px;
-}
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 1.5rem;
-}
-@media only screen and (max-width: 1600px) {
-.grid-container {
-display: grid;
-grid-template-columns: repeat(3, 1fr);
-grid-gap: 10px;
-}
-@media only screen and (max-width: 1400px) {
-.grid-container {
-display: grid;
-grid-template-columns: repeat(3, 1fr);
-grid-gap: 10px;
-}
-@media only screen and (max-width: 1200px) {
-.grid-container {
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-gap: 10px;
-}
-}
-@media only screen and (max-width: 1000px) {
-.grid-container {
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-gap: 10px;
-}
-}
-@media only screen and (max-width: 800px) {
-.grid-container {
-display: grid;
-grid-template-columns: repeat(1, 1fr);
-grid-gap: 10px;
-}
-}
-@media only screen and (max-width: 600px) {
-.grid-container {
-display: grid;
-grid-template-columns: repeat(1, 1fr);
-grid-gap: 10px;
-}
-}
-</style>
+         .text-line > span,
+         .text-line > img {
+         margin-right: 8px;
+         }
+         .grid-container {
+         display: grid;
+         grid-template-columns: repeat(4, 1fr);
+         gap: 1.5rem;
+         }
+         @media only screen and (max-width: 1600px) {
+         .grid-container {
+         display: grid;
+         grid-template-columns: repeat(3, 1fr);
+         grid-gap: 10px;
+         }
+         @media only screen and (max-width: 1400px) {
+         .grid-container {
+         display: grid;
+         grid-template-columns: repeat(3, 1fr);
+         grid-gap: 10px;
+         }
+         @media only screen and (max-width: 1200px) {
+         .grid-container {
+         display: grid;
+         grid-template-columns: repeat(2, 1fr);
+         grid-gap: 10px;
+         }
+         }
+         @media only screen and (max-width: 1000px) {
+         .grid-container {
+         display: grid;
+         grid-template-columns: repeat(2, 1fr);
+         grid-gap: 10px;
+         }
+         }
+         @media only screen and (max-width: 800px) {
+         .grid-container {
+         display: grid;
+         grid-template-columns: repeat(1, 1fr);
+         grid-gap: 10px;
+         }
+         }
+         @media only screen and (max-width: 600px) {
+         .grid-container {
+         display: grid;
+         grid-template-columns: repeat(1, 1fr);
+         grid-gap: 10px;
+         }
+         }
+      </style>
    </head>
    <body>
       <div id="floatingElement" class="bg-dark">
          <img src="flags/Flag.svg" alt="Icon"> 
-         <div class="text">Stands for no location.</div>
+         <div class="text">Stands for all locations.</div>
       </div>
       <div id="floatingElement2" class="bg-dark">
          <img src="flags/Check.svg" alt="Icon"> 
-         <div class="text">Last Updated 07 / 08 / 2025</div>
+         <div class="text">Last Updated 07 / 16 / 2025</div>
       </div>
       <div>
          <div>
             <main>
-               <div>
-                  <div class="markdown-body card" style="background-color: #282b30; padding: 24px; border-radius: 15px;">
-                     <div class="alert alert-simple alert-secondary text-center" style="font-size: 36px; background-color: #2d3238;">
-                        <h1>FMHL - Free Minecraft Hosts List</h1>
-                        <h5>indexed by Myuui & the community!</h5>
-                     </div>
-                     <section>
-                        <div class="col-sm-12">
-                           <div class="alert alert-simple alert-secondary text-left" style="background-color: #2d3238;">
-                              <i class="start-icon far fa-check-circle faa-tada animated"></i>
-                              <strong class="font__weight-semibold">
-                                 <h1>Need tips?</h1>
-                              </strong>
-                              <h3>Common Mistakes:</h3>
-                              <ul>
-                                 <li><strong>Gigahertz Myth:</strong> When selecting CPUs for your Minecraft server, do not use the clock speed rating to compare two CPUs unless they are of same model and manufacture. Please refer to <a href="https://pcpartpicker.com/forums/topic/152736-the-gigahertz-myth" class="btn btn-secondary btn-sm">Gigahertz Myth</a>for more info.
-                                    In short, select the latest cpu architecture and the highest single core thread rating model available.
-                                 </li>
-                                 <li><strong>More RAM ≠ Better performance:</strong> Server performance is largely dependant on your CPU, not RAM.</li>
-                              </ul>
-                              <h3>Personal preference:</h3>
-                              <ul>
-                                 <li><strong>CPU model:</strong> I personally wouldnt settle for for anything older than AMD Ryzen 3900. A generational leap is significant. Generally, looking for a newer CPU that is marketed toward gaming will be the most suitable for Minecraft, as these tend to have higher single-core performance.</li>
-                                 <li><strong>High yield, high risk:</strong> Some hosts with huge specs manage to fit in here, despite the anti-summerhosts rules. They're often dangerous because they're unstable and remove themselves or restart their service to wipe the customers clean in just a few months, all so they can renew themselves under new names. I strongly recommend choosing a smaller host with reasonable specs.</li>
-                              </ul>
-                           </div>
-                        </div>
-                     </section>
+            <div>
+               <div class="markdown-body card" style="background-color: #282b30; padding: 24px; border-radius: 15px;">
+                  <div class="alert alert-simple alert-secondary text-center" style="font-size: 36px; background-color: #2d3238;">
+                     <h1>FMHL - Free Minecraft Hosts List</h1>
+                     <h5>indexed by Myuui & the community!</h5>
+                  </div>
+                  <section>
                      <div class="col-sm-12">
-                        <div style="display: flex; justify-content: center; align-items: center;">
+                        <div class="alert alert-simple alert-secondary text-left" style="background-color: #2d3238;">
+                           <i class="start-icon far fa-check-circle faa-tada animated"></i>
+                           <strong class="font__weight-semibold">
+                              <h1>Need tips?</h1>
+                           </strong>
+                           <h3>Common Mistakes:</h3>
+                           <ul>
+                              <li><strong>Gigahertz Myth:</strong> When selecting CPUs for your Minecraft server, do not use the clock speed rating to compare two CPUs unless they are of same model and manufacture. Please refer to <a href="https://pcpartpicker.com/forums/topic/152736-the-gigahertz-myth" class="btn btn-secondary btn-sm">Gigahertz Myth</a>for more info.
+                                 In short, select the latest cpu architecture and the highest single core thread rating model available.
+                              </li>
+                              <li><strong>More RAM ≠ Better performance:</strong> Server performance is largely dependant on your CPU, not RAM.</li>
+                           </ul>
+                           <h3>Personal preference:</h3>
+                           <ul>
+                              <li><strong>CPU model:</strong> I personally wouldnt settle for for anything older than AMD Ryzen 3900. A generational leap is significant. Generally, looking for a newer CPU that is marketed toward gaming will be the most suitable for Minecraft, as these tend to have higher single-core performance.</li>
+                              <li><strong>High yield, high risk:</strong> Some hosts with huge specs manage to fit in here, despite the anti-summerhosts rules. They're often dangerous because they're unstable and remove themselves or restart their service to wipe the customers clean in just a few months, all so they can renew themselves under new names. I strongly recommend choosing a smaller host with reasonable specs.</li>
+                           </ul>
                         </div>
                      </div>
-                     <div class="alert alert-simple alert-secondary text-center" style="background-color: #2d3238;">
-                        <h2 style="color: white;">Our request / modify form has moved to discord, please join our discord to submit requests.</h2>
-                        <a href="https://discord.gg/QmgAFzasaP" target="_blank" class="btn btn-secondary">Join Discord</a>
+                  </section>
+                  <div class="col-sm-12">
+                     <div style="display: flex; justify-content: center; align-items: center;">
                      </div>
-                     <span> 
-                     <a href="https://discord.gg/QmgAFzasaP" target="_blank">
-                     <img id="img-discord" style="border-radius: 5px;" class="" src="https://invite.casperiv.dev/?inviteCode=QmgAFzasaP" />
-                     </a>
-                     </span>
+                  </div>
+                  <div class="alert alert-simple alert-secondary text-center" style="background-color: #2d3238;">
+                     <h2 style="color: white;">Our request / modify form has moved to discord, please join our discord to submit requests.</h2>
+                     <a href="https://discord.gg/QmgAFzasaP" target="_blank" class="btn btn-secondary">Join Discord</a>
+                  </div>
+                  <span> 
+                  <a href="https://discord.gg/QmgAFzasaP" target="_blank">
+                  <img id="img-discord" style="border-radius: 5px;" class="" src="https://invite.casperiv.dev/?inviteCode=QmgAFzasaP" />
+                  </a>
+                  </span>
+               </div>
+            </div>
+            <p></p>
+            <h1></h1>
+            <div id="filter-options" class="markdown-body card" style="background-color: #282b30; padding: 24px; border-radius: 15px;">
+               <label style="color: var(--color-text-secondary); font-size: 28px;">Filter by:</label>
+               <div class="btn-group d-flex mb-3">
+                  <button class="btn btn-dark flex-fill filter-btn active" data-filter="all">All Hosts</button>
+               </div>
+               <input type="text" id="search-input" placeholder="Search by title..." class="form-control text-white mb-3" style="background-color: #2d3238; border: none; color: white;">
+               <div class="row mb-3">
+                  <div class="col">
+                     <label class="form-label text-white">Min RAM:</label>
+                     <select id="ram-filter" class="form-select bg-dark text-white" style="border: none;">
+                        <option value="0">Any</option>
+                        <option value="1">1 GB+</option>
+                        <option value="2">2 GB+</option>
+                        <option value="4">4 GB+</option>
+                        <option value="6">6 GB+</option>
+                        <option value="8">8 GB+</option>
+                     </select>
+                  </div>
+                  <div class="col">
+                     <label class="form-label text-white">Min Storage:</label>
+                     <select id="storage-filter" class="form-select bg-dark text-white" style="border: none;">
+                        <option value="0">Any</option>
+                        <option value="2">2 GB+</option>
+                        <option value="4">4 GB+</option>
+                        <option value="10">10 GB+</option>
+                        <option value="25">25 GB+</option>
+                     </select>
+                  </div>
+                  <div class="col">
+                     <label class="form-label text-white">Min Stars:</label>
+                     <select id="star-filter" class="form-select bg-dark text-white" style="border: none;">
+                        <option value="0">Any</option>
+                        <option value="2.5">2.5+</option>
+                        <option value="3.5">3.5+</option>
+                        <option value="4">4+</option>
+                     </select>
+                  </div>
+                  <div class="col">
+                     <label class="form-label text-white">Min Cores %:</label>
+                     <select id="cores-filter" class="form-select bg-dark text-white" style="border: none;">
+                        <option value="0">Any</option>
+                        <option value="100">100%</option>
+                        <option value="125">125%</option>
+                        <option value="150">150%</option>
+                        <option value="200">200%</option>
+                        <option value="250">250%</option>
+                        <option value="300">300%</option>
+                        <option value="400">400%</option>
+                        <option value="600">600%</option>
+                        <option value="800">800%</option>
+                     </select>
                   </div>
                </div>
-               <p></p>
-               <h1></h1>
-               <div class="markdown-body card" style="background-color: #282b30; padding: 24px; border-radius: 15px; font-size: 24px;">
-                  <div class=" px-4 py-5" id="custom-cards">
-                     <h2 class="text-center fw-bold" style="background-color: #2d3238; border-radius: 6px; color: white; font-size: 33px; padding: 12px;">best hosting rated by the comunityyyyy hel ye</h2>
-                     <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
-                        <div class="col">
-                           <div class="card h-100 text-whiterounded-5" style="background-color: #2d3238; border-radius: 6px;">
-                              <div class="d-flex flex-column h-100 p-5 pb-3">
-                                 <h class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold" style="color: gold;">1st</h>
-                                 <h3 style="color: white;">Eternal Zero</h3>
-                                 <h5 style="color: white;">6 GB RAM, 25 GB SSD & very good cpu power</h5>
-                                 <a class="btn btn-secondary" href="https://fmhl.psee.io/eternalzero/" onclick="#" target="_blank">Get Started</a>
-                              </div>
-                           </div>
-                        </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
+               <div class="mb-3">
+                  <label class="form-label text-white">Locations:</label>
+                  <div class="dropdown">
+                     <button class="btn btn-dark dropdown-toggle w-100" type="button" id="locationDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                     Select Locations
+                     </button>
+                     <ul class="dropdown-menu bg-dark text-white p-2" style="width: 200px;" id="location-options">
+                        <li><label class="form-check-label"><input type="checkbox" class="form-check-input me-2 location-check" value="Germany"> Germany</label></li>
+                        <li><label class="form-check-label"><input type="checkbox" class="form-check-input me-2 location-check" value="France"> France</label></li>
+                        <li><label class="form-check-label"><input type="checkbox" class="form-check-input me-2 location-check" value="USA"> USA</label></li>
+                        <li><label class="form-check-label"><input type="checkbox" class="form-check-input me-2 location-check" value="Finland"> Finland</label></li>
+                        <li><label class="form-check-label"><input type="checkbox" class="form-check-input me-2 location-check" value="India"> India</label></li>
+                        <li><label class="form-check-label"><input type="checkbox" class="form-check-input me-2 location-check" value="Singapore"> Singapore</label></li>
+                        <li><label class="form-check-label"><input type="checkbox" class="form-check-input me-2 location-check" value="UK"> United Kingdom</label></li>
+                     </ul>
                   </div>
-                  <h1></h1>
                </div>
-               <p></p>
-               <h1></h1>
-               <div id="filter-options" class="markdown-body card" style="background-color: #282b30; padding: 24px; border-radius: 15px;">
-                  <label for="filter-select" style="color: var(--color-text-secondary); font-size: 28px;">Filter by:</label>
-                  <div class="btn-group d-flex mb-3">
-                     <button class="btn btn-dark flex-fill filter-btn active" data-filter="all">All</button>
-                     <button class="btn btn-dark flex-fill filter-btn" data-filter="ram">Min RAM</button>
-                     <button class="btn btn-dark flex-fill filter-btn" data-filter="storage">Min Storage</button>
-                     <button class="btn btn-dark flex-fill filter-btn" data-filter="location">Location</button>
-                  </div>
-                  <input type="text" id="search-input" placeholder="Search..." class="form-control text-white" style="background-color: #2d3238; border: none;">
-                  <h3 id="location-heading" class="text-white mt-3" style="display: none; color: transparent; font-size: 0px;"></h3>
-               </div>
-               <p></p>
-               <h1></h1>
-               <div class="grid-container">
-                  <div class="container" data-location="France">
-                     <div class="icon-box">
-                        <img src="logos/minestr.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">MineStrator</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/France.svg" alt="France" height="27">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg" alt="Rating">
-                              <span>4.8<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://ishortn.ink/Tx4KdMkS8" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore1() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore1() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="logos/minestr.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">MineStrator</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 274 Multi: 743</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">France</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100% (Xeon Gold 6230R)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/560.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: Website not fully translated to English.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany">
-                     <div class="icon-box">
-                        <img src="logos/alter.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Aternos</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2.2+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">4+ GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-2.5.svg" alt="Rating">
-                              <span>2.4<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/shiternos/" onclick="#" target="_blank">Get Started</a>
-                           <button onclick="showMore7()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore7() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="logos/alter.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Aternos</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 0  Multi: 0</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">3.9 GHz (EPYC 7402P)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/507.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: RAM can change depending on server software (3.6gb for a modpack) & storage can be up to 15GB by using your own google drive.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/WbQGCdn.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Falix</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" alt="France" height="27">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.6<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/falix/" onclick="#" target="_blank">Get Started</a>
-                           <button onclick="showMore9()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore9() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="https://i.imgur.com/WbQGCdn.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Falix</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 316  Multi: 590</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">200% (Ryzen 9 7950X3D)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/631.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: <a href="https://pastes.dev/731LfdODle">Available in these countries only</a>.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany">
-                     <div class="icon-box">
-                        <img src="logos/magma.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">MagmaNode</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.3<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/magmanode" onclick="#" target="_blank">Get Started</a>
-                           <button onclick="showMore11()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore11() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="logos/magma.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Magma Hosting</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 122  Multi: 297</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">200% (Ryzen 9 7950X3D)</span>
-                              <img src="https://i.imgur.com/rseAFOQ.jpeg" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">Unknown</span>
-                              </div>
-                           </div>
-                           <p>Notes: No information.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="USA / Germany">
-                     <div class="icon-box">
-                        <img src="logos/freemcserver.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Free MC Server</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">1.5+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;"><img src="flags/USA.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg" alt="Rating">
-                              <span>3.6<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/freemcserver/" onclick="#" target="_blank">Get Started</a>
-                           <button onclick="showMore12()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore12() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="logos/freemcserver.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Free MC Server</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 0  Multi: 0</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">USA / Germany</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100% (Ryzen 5 3600)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/473.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: Virtual currency that can be used for better hardware</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany / Finland">
-                     <div class="icon-box">
-                        <img src="logos/gaming4free.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Gaming4Free</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;"><img src="flags/Finland.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg" alt="Rating">
-                              <span>0<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/gaming4free/" onclick="#" target="_blank">Get Started</a>
-                           <button onclick="showMore13()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore13() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="logos/gaming4free.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Gaming4Free</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 190  Multi: 387</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany / Finland</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100% (I9-9900k)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/479.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: Also known as skynode.pro</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany / USA/ Finland">
-                     <div class="icon-box">
-                        <img src="logos/fps.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">FPS.ms</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;"><img src="flags/USA.svg" height="27" style="margin-right: 5px;"><img src="flags/Finland.svg" height="27" style="margin-right: 5px;">                        
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg" alt="Rating">
-                              <span>3.5<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/FPS/" onclick="#" target="_blank">Get Started</a>
-                           <button onclick="showMore24()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore24() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="logos/fps.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">FPS.ms</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 0  Multi: 0</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">USA / Germany / Finland</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">5 GHz (I9-9900K)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/479.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: New hosting service seeking for feedback. Does not allow Cracked players... <b>Myuui</b>: they banned me from leaving their servers after using their service, watch out !</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany / Britain / Sweden / India / USA">
-                     <div class="icon-box">
-                        <img src="logos/host2play.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Host2Play</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">3 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;"><img src="flags/UK.svg" height="27" style="margin-right: 5px;"><img src="flags/Sweden.svg" height="27" style="margin-right: 5px;"><img src="flags/India.svg" height="27" style="margin-right: 5px;"><img src="flags/USA.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">2 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.3<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/host2play/" onclick="#" target="_blank">Get Started</a>
-                           <button onclick="showMore32()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore32() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="logos/host2play.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Host2Play</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 244  Multi: 815</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany / Britain / Sweden / India / USA</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">300% </span>
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: renew system.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany / USA">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/RL7pbFT.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">AxentHost</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;"><img src="flags/USA.svg" height="27" style="margin-right: 5px;">                        
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5+ GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg" alt="Rating">
-                              <span>3.7<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/axenthost/" onclick="#" target="_blank">Get Started</a>
-                           <button onclick="showMore33()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore33() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="https://i.imgur.com/RL7pbFT.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">AxentHost</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 280  Multi: 651</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany / USA</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">200% (Ryzen 9 3900)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/471.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Scalable hosting provider thru virtual coins, possibility to get 24/7 by optimising coins.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="All regions">
-                     <div class="icon-box">
-                        <img src="logos/googlecloud.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Google Cloud</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">8 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Flag.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-1.5.svg" alt="Rating">
-                              <span>1.6<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/consolegooglecloud/" onclick="#" target="_blank">Get Started</a>
-                           <a class="btn btn-secondary" href="https://www.youtube.com/watch?v=2CdQUmNKRJI" target="_blank">Video Guide</a>
-                           <button onclick="showMore37()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore37() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="logos/googlecloud.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Google Cloud</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 0  Multi: 0</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">All regions</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">3.3 GHz (EPYC 7B12)</span>
-                              <img src="https://i.imgur.com/091SiVR.jpeg" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Minecraft / Java Not Installed, no Game Panel. User has not complete control of server.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Unknown">
-                     <div class="icon-box">
-                        <img src="logos/codespaces.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Github Codespaces</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">16 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Flag.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">32 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-2.svg" alt="Rating">
-                              <span>2.2<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/codespaces" onclick="# " target="_blank">Get Started</a>
-                           <a class="btn btn-secondary" href="https://rentry.org/u9ps44vq" target="_blank">Guide</a>
-                           <button onclick="showMore40()" class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore40() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                           <img src="logos/codespaces.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Github Codespaces</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 0 Multi: 0</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Unknown</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">Unknown</span>
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: No panels.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="USA">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/Mt2WVxM.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">my-mc.link</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">6 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/USA.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">Unlimited</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg" alt="Rating">
-                              <span>0<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/my-mc/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore50() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore50() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/Mt2WVxM.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">my-mc.link</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 0  Multi: 0</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">USA</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">600% (E5-2690 v4)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/320.png" alt="CPU Icon" style="width: 34px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: No panel, everything in the discord. info by quanglocle24.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Unknown">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/JZeTV3K.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Gameserver.gratis</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2/3 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Flag.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.4<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/gameserver-gratis" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore52() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore52() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/JZeTV3K.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Gameserver.gratis</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 411  Multi: 711</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Unknown</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100% (Ryzen 9 9900X)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/749.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: German website.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Unknown">
-                     <div class="icon-box">
-                        <img src="logos/colab.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Colab</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">12+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Flag.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">100 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg" alt="Rating">
-                              <span>0<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/googlecolab/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore57() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore57() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="logos/colab.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Colab</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 172  Multi: 361</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Unknown</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">2.2 GHz (Xeon)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/564.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: No panel, use <a href="https://katb.in/yogocomeceh">this command</a> to get an ssh window online
-                           <p>86h average for 12gb of RAM w 2 Cores ; 2h average for 340G of RAM w 96 Cores (TPU v2-8)
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Finland / Canada">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/aGtGbwo.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Eternal Zero</div>
-                        Limited to <a href="https://pastebin.com/QYxu0YaT">these countries</a>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">6 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Finland.svg" alt="Finland" height="27" style="margin-right: 5px;"><img src="flags/Canada.svg" alt="Canada" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">25 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.6<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/eternalzero/" onclick="#" target="_blank">Get Started</a>
-                           <button onclick="showMore58() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore58() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/aGtGbwo.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Eternal Host</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 277 Multi: 905</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany & Canada</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">300% (Xeon w 2295 or EPYC 7351p)</span>
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: up to 400% cpu, 8GB ram, 30GB disk on request if needed. Daily renewal with 1 hour cooldown.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Sweden">
-                     <div class="icon-box">
-                        <img src="logos/minex.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Minexnodes</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Sweden.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg" alt="Rating">
-                              <span>3.7<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/minexnodes/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore60() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore60() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="logos/minex.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Minexnodes</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 225 Multi: 408</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Sweden</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100% (Neoverse N1)</span>
-                              <img src="https://tpucdn.com/images/news/arm-v1738672025795.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: None.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany / USA / Belgium">
-                     <div class="icon-box">
-                        <img src="https://www.mcserverhost.com/style/media/brand/logo-icon.svg" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">MCServerHost</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/USA.svg" alt="USA" height="27" style="margin-right: 5px;"><img src="flags/Belgium.svg" alt="Belgium" height="27">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.6<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/MCSH/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore62() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore62() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://www.mcserverhost.com/style/media/brand/logo-icon.svg" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">MCServerHost</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 342 Multi: 956</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Belgium & USA</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">200% (Ryzen 9 7950X3D)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/610.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: Almost no ads.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/JSZPRr1.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Rustix</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg" alt="Rating">
-                              <span>0<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/rustix/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore63() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore63() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/JSZPRr1.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Rustix</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 149 Multi: 342</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">125% (i9-9900K)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/479.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Russian website. No automatic installation for paper, fabric, forge... gotta upload and rename it to server.jar yourself.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Finland">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/lH6YYqW.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Hosting Mit Herz</div>
-                        Limited stock, first come, first served
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">3 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Finland.svg" height="27" style="margin-right: 5px;">                          
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.5<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/hostingmitherz/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore69() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore69() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/lH6YYqW.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Hosting Mit Herz</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 303 Multi: 569</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Finland</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">4.2 GHz (Ryzen 5 3600)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/473.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Beta.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/02h0Ws4.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Minekeep</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">1 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Flag.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.4<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/minekeep/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore71() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore71() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/02h0Ws4.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Minekeep</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 0 Multi: 0</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Unknown</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">300% (Ryzen 9 7950X3D)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/639.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: None.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Finland">
-                     <div class="icon-box">
-                        <img src="https://freezehost.pro/assets/images/flake.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Freezehost</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Finland.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10+ GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.4<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/freezehost/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore72() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore72() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://freezehost.pro/assets/images/flake.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Freezehost</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 319 Multi: 678</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Finland</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">4.6 GHz (Ryzen 5 5600X)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/544.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: Upgradable specs thru virtual currency.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Canada">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/EurpW04.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Seedloaf</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Canada.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">6 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>3.9<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/seedloaf/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore73() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore73() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/EurpW04.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Seedloaf</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 207 Multi: 578</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Canada</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">200% (EPYC 7351P)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/346.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: Fixed their simplified panel, get 1GB of ram if u get operagx.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany / France">
-                     <div class="icon-box">
-                        <img src="https://client.spaceify.eu/storage/logo.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Spaceify</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;"><img src="flags/France.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5+ GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg" alt="Rating">
-                              <span>0<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/spaceify" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore74() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore74() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://client.spaceify.eu/storage/logo.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Spaceify</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 211 Multi: 388</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany & France</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100% (Xeon Platinum 8358)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/559.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: discord login for 100% cpu, 3gb of ram and 10gb ssd.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/2z6oJLF.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Vertex Hosting</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;">                        
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">8 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>4.1<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/vertex/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore75() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore75() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/2z6oJLF.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Vertex Hosting</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 200 Multi: 492</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">∞% (EPYC 7443P)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/558.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: 1 currency per day for the server to stay alive, get it in the discord..
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Netherlands">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/n4jlBd6.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">HyperHub</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Netherlands.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10+ GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>3.8<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/hyperhub" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMore76() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMore76() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/n4jlBd6.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">HyperHub</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 138 Multi: 228</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Netherlands</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100+% (E5-2670)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/80.png" alt="CPU Icon" style="width: 45px; height: 34px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: To earn 1Gb of ram, you need to wait around 6.5h in afk page.
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="USA, Germany">
-                     <div class="icon-box">
-                        <img src="https://tickhosting.com/portal/wp-content/uploads/2024/08/cropped-cropped-Logo_V2.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Tick Hosting</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;"><img src="flags/USA.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg" alt="Rating">
-                              <span>3.3<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/tickhosting/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreTick() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreTick() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://tickhosting.com/portal/wp-content/uploads/2024/08/cropped-cropped-Logo_V2.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Tick Hosting</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 270 Multi: 580</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany & USA</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">200% (i5 12500)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/574.png" alt="CPU Icon" style="width: 0px; height: 0px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: 2d expiry but renewable, players have to be in the server to use commandd. Thanks to legeriergeek.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Japan">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/V9ixA53.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">XServer GAMEs</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2/4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Japan.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.svg" alt="Rating">
-                              <span>3<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/xserver/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreXserver() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreXserver() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/V9ixA53.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">XServer GAMEs</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 181 Multi: 477</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Japan</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">? GHz (AMD EPYC-Milan)</span>
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅?</span>
-                              </div>
-                           </div>
-                           <p>Notes: Japanese website. Custom panel. Renew every 72 hour. info by whiteik24</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Poland">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/RBA5vuM.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">IceHost</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/POL.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">10 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>4<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/7v5kpy" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreIceHost() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreIceHost() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/RBA5vuM.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">IceHost</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 219 Multi: 507</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Poland</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">150% (Xeon Gold 6152)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/415.png" alt="CPU Icon" style="width: 34px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">❌</span>
-                              </div>
-                           </div>
-                           <p>Notes: Polish website with approximate translation. Annoying renew system (every day). Server gets trashed 2d later if no renew. info by whiteik24</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="France">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/zqLHbZM.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">ElementiaMC</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/France.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5+ GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg" alt="Rating">
-                              <span>3.3<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/elementiamc/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreElementiaMC() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreElementiaMC() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/zqLHbZM.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">ElementiaMC</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 209 Multi: 499</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">France</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">150% (E-2274G)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/463.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Virtual currency that can be earned. info by whiteik24</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/mnP6x4j.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">AcronixCloud</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg" alt="Rating">
-                              <span>?<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/acronix/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreAcronix() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreAcronix() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/mnP6x4j.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">AcronixCloud</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 0 Multi: 0</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">150% (Ryzen 7 1700)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/338.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: free delivery is not possible within 2 days due to the blocking by the provider, all accumulated requests will be processed manually. info by whiteik24</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/b3dvgIA.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">AceNodes</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">2 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>4<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/acenodes/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreAcenodes() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreAcenodes() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/b3dvgIA.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">AceNodes</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 341 Multi: 702</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100% (Ryzen 9 7950X3D)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/639.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Limited Stock.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="USA / France">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/wpbQxCp.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">OuiHeberg</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">8 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/USA.svg" height="27" style="margin-right: 5px;"><img src="flags/France.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">2 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg" alt="Rating">
-                              <span>4.3<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/ouiheberg" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreOuiHeberg() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreOuiHeberg() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/wpbQxCp.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">OuiHeberg</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 210 Multi: 808</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">USA & France</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">400% (Xeon Gold 6148)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/631.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: renew thru discord code, server up for an hour, ads in chat & no mods ; info by legeriergeek.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="USA">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/vZHwEiy.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">Embotic</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/USA.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>3.8<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/embotic" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreEmbotic() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreEmbotic() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "https://i.imgur.com/vZHwEiy.png",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/vZHwEiy.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">Embotic</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 192 Multi: 335</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">USA</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100% (Xeon Gold 6130)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/631.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Only free hosting in USA. info by whiteik24.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="UK">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/O7X2V3R.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">BerryNodes</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/UK.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">20+ GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>4<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/berrynodes" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreBerryNodes() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreBerryNodes() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/O7X2V3R.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">BerryNodes</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 166 Multi: 427</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">UK</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">250+% (Xeon 2699v2)</span>
-                              <img src="https://www.techpowerup.com/cpu-specs/images/generations/292.png" alt="CPU Icon" style="width: 45px; height: 34px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Get coins in the <a href="https://discord.gg/DJC7UzTGz7">Discord</a> (30/d), possibility of gambling and getting more and reach 16gb ram, 100gb ssd & 800%. info by quanglocle24.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="UK / USA">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/LNcWQbt.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">InfinitiCloud</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">3+ GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/UK.svg" height="27" style="margin-right: 5px;"><img src="flags/USA.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">5+ GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-0.svg" alt="Rating">
-                              <span>?<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/infiniticloud/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreInfinitiCloud() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreInfinitiCloud() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/LNcWQbt.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">InfinitiCloud</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 153 Multi: 253</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">UK & USA</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">100+%</span>
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Earn coins with AFK or LinkVertise. LinkVertise link limit per day - 10. No renewal systems. info by whiteik24.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="UK / USA">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/6U7HYIM.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">HidenCloud</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">3 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/France.svg" height="27" style="margin-right: 5px;"><img src="flags/Mexico.svg" height="27" style="margin-right: 5px;"><img src="flags/USA.svg" height="27" style="margin-right: 5px;"><img src="flags/Sing.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">15 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>4.2<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/hidencloud" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreHidenCloud() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreHidenCloud() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/6U7HYIM.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">HidenCloud</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight">Single: 361 Multi: 888</span>
-                              <span>Location:</span>
-                              <span class="text-highlight">France, Mexico, USA & Singapore</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">200% (Azure Cobalt 100)</span>
-                              <img src="https://tpucdn.com/images/news/arm-v1738672025795.png" alt="CPU Icon" style="width: 45px; height: 45px; margin-right: 5px;">
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Weekly renewal at the last day of the service. info by alivekrikantheanime.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
-                  <div class="container" data-location="Germany">
-                     <div class="icon-box">
-                        <img src="https://i.imgur.com/zxfPvxA.png" alt="Icon">
-                     </div>
-                     <div class="content">
-                        <div class="title">IntraceX</div>
-                        <div class="text-line">
-                           <span>RAM:</span>
-                           <span class="text-highlight">4 GB</span>
-                           <span>Locations:</span>
-                           <img src="flags/Germany.svg" height="27" style="margin-right: 5px;">
-                        </div>
-                        <div class="text-line">
-                           <span>Storage:</span>
-                           <span class="text-highlight">20 GB</span>
-                           <div class="rating">
-                              <img style="width:100px;" src="https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.svg" alt="Rating">
-                              <span>3.9<span class="star">★</span></span>
-                           </div>
-                        </div>
-                        <div class="btn-toolbar">
-                           <a class="btn btn-secondary" href="https://fmhl.psee.io/intracex/" onclick="#" target="_blank">Get Started</a> 
-                           <button onclick="showMoreIntraceX() " class="btn btn-secondary">More Info</button>
-                        </div>
-                        <script>
-                           function showMoreIntraceX() {
-                           Swal.fire({
-                           title: "More Info<p></p>",
-                           icon: "",
-                           html: `
-                           <div class="container">
-                           <div class="icon-box">
-                             <img src="https://i.imgur.com/zxfPvxA.png" alt="Icon">
-                           </div>
-                           <div class="content">
-                           <div class="title">IntraceX</div>
-                           <div class="text-line">
-                              <span>Performance:</span>
-                              <span class="text-highlight"><a href="https://pastes.dev/LKlcfPsgzQ">Scores for all CPUS</a></span>
-                              <span>Location:</span>
-                              <span class="text-highlight">Germany</span>
-                           </div>
-                           <div class="text-line">
-                              <span>CPU:</span>
-                              <span class="text-highlight">800% (Ryzen 9 9950X, i7 8700 & E5 2698v4)</span>
-                              <div class="rating">
-                                 <span>24/7</span>
-                                 <span class="text-highlight">✅</span>
-                              </div>
-                           </div>
-                           <p>Notes: Weekly renewal at the last day of the service, website in German language. info by whiteik24.</p>
-                           </div>
-                           </div>
-                           `,
-                           showCloseButton: true,
-                           showConfirmButton: false,
-                           });
-                           }
-                        </script>
-                     </div>
-                  </div>
+            </div>
+            <p></p>
+            <h1></h1>
+            <div class="grid-container" id="host-list"></div>
          </div>
-         <p></p>
-         <h1></h1>
-         
-         <div class="markdown-body card" style="background-color: #282b30; padding: 1px; border-radius: 10px; font-size: 24px;">
-                  <div class=" px-4 py-5" id="custom-cards">
-                     <h2 class="text-center fw-bold" style="background-color: #2d3238; border-radius: 6px; color: white; font-size: 33px; padding: 12px;">Need more specs at the expense of service quality? Take a look at <a href="https://flhl.berserk.sbs/" class="btn btn-secondary btn-sm">FLHL</a> in the “Newest Hosting” tab.</h2>
+      </div>
+      <p></p>
+      <h1></h1>
+      <div class="markdown-body card" style="background-color: #282b30; padding: 1px; border-radius: 10px; font-size: 24px;">
+         <div class=" px-4 py-5" id="custom-cards">
+            <h2 class="text-center fw-bold" style="background-color: #2d3238; border-radius: 6px; color: white; font-size: 33px; padding: 12px;">Need more specs at the expense of service quality? Take a look at <a href="https://flhl.berserk.sbs/" class="btn btn-secondary btn-sm">FLHL</a> in the “Newest Hosting” tab.</h2>
          </div>
          <h1></h1>
       </div>
       <p></p>
       <footer style="border-radius: 15px; background-color: #282b30; padding: 20px; border-radius: 15px; ">
-      <div class="footer-content">
-      <div class="footer-section about">
-      <h2>About Us</h2>
-      <p>Free Minecraft Hosting List aka. FMHL</p>
-      </div>
-      <div class="footer-section contact">
-      <h2>Contact Us</h2>
-      <p>Discord: myuui / alt: tyug</p>
-      </div>
-      <div class="footer-section links">
-      <h2>Quick Links</h2>
-      <ul>
-      <li><a  href="#">Home</a></li>
-      <li><a  href="license.html">License</a></li>
-      <li><a  href="https://github.com/Myuui/Free-Minecraft-Hosts">Github</a></li>
-      </ul>
-      </div>
-      </div>
-      <div class="footer-bottom">
-      &copy; 2025 FMHL. All rights reserved.
-      </div>
+         <div class="footer-content">
+            <div class="footer-section about">
+               <h2>About Us</h2>
+               <p>Free Minecraft Hosting List aka. FMHL</p>
+            </div>
+            <p></p>
+            <div class="footer-section contact">
+               <h2>Contact Us</h2>
+               <p>Discord: myuui / alt: tyug</p>
+            </div>
+            <p></p>
+            <div class="footer-section links">
+               <h2>Quick Links</h2>
+               <ul>
+                  <li><a  href="#">Home</a></li>
+                  <li><a  href="license.html">License</a></li>
+                  <li><a  href="https://github.com/Myuui/Free-Minecraft-Hosts">Github</a></li>
+               </ul>
+            </div>
+         </div>
+         <div class="footer-bottom">
+            &copy; 2025 FMHL. All rights reserved.
+         </div>
       </footer>
       <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
@@ -2507,109 +253,193 @@ grid-gap: 10px;
       </script>
       <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
       <script>
-document.addEventListener("DOMContentLoaded", function () {
-    const containers = document.querySelectorAll(".container");
-    const filterButtons = document.querySelectorAll(".filter-btn");
-    const searchInput = document.getElementById("search-input");
-    const locationHeading = document.getElementById("location-heading");
-    const parent = document.querySelector(".grid-container");
-
-    function getRating(container) {
-        const ratingElement = container.querySelector(".rating span");
-        if (ratingElement) {
-            const ratingText = ratingElement.textContent.trim();
-            const rating = parseFloat(ratingText);
-            return isNaN(rating) ? 0 : rating;
-        }
-        return 0;
-    }
-
-    function parseValue(text) {
-        const match = text.match(/(\d+(?:\.\d+)?)(\s*)(gb|tb)/i);
-        if (!match) return 0;
-        let value = parseFloat(match[1]);
-        const unit = match[3].toLowerCase();
-        return unit === "tb" ? value * 1024 : value;
-    }
-
-    function filterAndSort(filter) {
-        const searchTerm = searchInput.value.trim().toLowerCase();
-let searchValue = parseFloat(searchTerm);
-
-if ((filter === "ram" || filter === "storage") && (isNaN(searchValue) || searchTerm === "")) {
-    searchValue = 0;
-}
-
-        const sortedContainers = Array.from(containers).sort((a, b) => {
-            const ratingA = getRating(a);
-            const ratingB = getRating(b);
-
-            if (a.dataset.location === "Unknown" && b.dataset.location !== "Unknown") return 1;
-            if (b.dataset.location === "Unknown" && a.dataset.location !== "Unknown") return -1;
-
-            return ratingB - ratingA;
-        });
-
-        let locationSet = new Set();
-
-        const filteredContainers = sortedContainers.filter(container => {
-            const ramElement = container.querySelector(".text-line:nth-child(2) .text-highlight");
-            const ramText = ramElement ? ramElement.textContent.trim().toLowerCase() : "";
-
-            const storageElement = container.querySelector(".text-line:nth-child(3) .text-highlight");
-            const storageText = storageElement ? storageElement.textContent.trim().toLowerCase() : "";
-
-            const titleElement = container.querySelector(".title");
-            const titleText = titleElement ? titleElement.textContent.trim().toLowerCase() : "";
-
-            const locationText = container.dataset.location.toLowerCase();
-
-            let meetsFilter = true;
-
-            if (filter === "ram") {
-                const ramValue = parseValue(ramText);
-                meetsFilter = !isNaN(searchValue) && ramValue >= searchValue;
-            } else if (filter === "storage") {
-                const storageValue = parseValue(storageText);
-                meetsFilter = !isNaN(searchValue) && storageValue >= searchValue;
-            } else if (filter === "location") {
-                meetsFilter = locationText.includes(searchTerm);
-                if (meetsFilter) locationSet.add(container.dataset.location);
-            } else {
-                meetsFilter = titleText.includes(searchTerm);
-            }
-
-            return meetsFilter;
-        });
-
-        if (filter === "location" && locationSet.size > 0) {
-            locationHeading.innerText = `Showing results for: ${Array.from(locationSet).join(", ")}`;
-            locationHeading.style.display = "block";
-        } else {
-            locationHeading.style.display = "none";
-        }
-
-        parent.innerHTML = "";
-        filteredContainers.forEach(container => parent.appendChild(container));
-    }
-
-    filterButtons.forEach(button => {
-        button.addEventListener("click", function () {
-            filterButtons.forEach(btn => btn.classList.remove("active"));
-            this.classList.add("active");
-            filterAndSort(this.getAttribute("data-filter"));
-        });
-    });
-
-    searchInput.addEventListener("input", () => {
-        const activeFilter = document.querySelector(".filter-btn.active").getAttribute("data-filter");
-        filterAndSort(activeFilter);
-    });
-
-    filterAndSort("all");
-});
-
-
+         async function loadHosts() {
+             try {
+                 const response = await fetch('getHosts.php');
+                 const hostFiles = await response.json();
+                 const parent = document.getElementById('host-list');
+         
+                 let containersArray = [];
+         
+                 for (let i = 0; i < hostFiles.length; i++) {
+                     const file = hostFiles[i];
+                     const res = await fetch('hosts/' + file);
+                     const data = await res.json();
+         
+                     const rating = parseFloat(data['trustpilot-score']) || 0;
+                     const rounded = Math.round(rating * 2) / 2; 
+                     const iconFile = rounded.toString().replace('.', '-'); 
+         
+                     const container = document.createElement('div');
+                     container.className = 'container text-white';
+                     container.dataset.location = data.locations.join(' / ');
+                     container.dataset.rating = rating;
+         
+                     container.innerHTML = `
+                         <div class="icon-box">
+                             <img src="${data.icon}" alt="Icon" style="max-width:100px;">
+                         </div>
+                         <div class="content">
+                             <div class="title fw-bold">${data.title}</div>
+                             <div class="text-line mt-2">
+                                 <span>RAM:</span>
+                                 <span class="text-highlight">${data.ram}</span>
+                                 <span>Locations:</span>
+                                 ${data.locations.map(loc => `<img src="flags/${loc}.svg" height="27">`).join('')}
+                             </div>
+                             <div class="text-line mt-2">
+                                 <span>Storage:</span>
+                                 <span class="text-highlight">${data.storage}</span>
+                                 <div class="rating">
+                                     <img style="width:100px;" src="assets/trustpilot-stars/stars-${iconFile}.svg" alt="Rating">
+                                     <span>${rating.toFixed(1)}<span class="star">★</span></span>
+                                 </div>
+                             </div>
+                             <div class="btn-toolbar mt-3">
+                                 <a class="btn btn-secondary me-2" href="${data.link}" target="_blank">Get Started</a>
+                                 <button class="btn btn-secondary" onclick="showMore${i}()">More Info</button>
+                             </div>
+                         </div>
+                     `;
+         
+                     const cores = parseFloat((data.vcore || '0').replace('%', '').trim()) || 0;
+                     container.dataset.cores = cores;
+         
+                     containersArray.push({ element: container, rating: rating });
+         
+                     window[`showMore${i}`] = function() {
+                         Swal.fire({
+                             title: "More Info",
+                             html: `
+                                 <div class="container">
+                                     <div class="icon-box">
+                                     <img src="${data.icon}" alt="Icon" style="max-width:80px;">
+                                     </div>
+         
+                                     <h3>${data.title}</h3>
+                                     <div class="content">
+                                     <div class="text-line">
+                                     <span>Performance: </span>
+                                     <span class="text-highlight">${data.performance}</span>
+                                     <span class="">Location: </span>
+                                     <span class="text-highlight">${data.locations.join(' / ')}</span>
+                                                                 </div>
+                                                                                             <div class="text-line">
+                                     <span>CPU: </span>
+                                     <span class="text-highlight">${data.vcore} (${data['cpu-model']})<img src="${data['cpu-icon']}" style="width:45px; height:45px;"></span>
+                                     <div class="Rating" style="">
+                                     <span>24/7: </span>
+                                     <span class="text-highlight">${data['24-7'] ? '✅' : '❌'}</span>
+                                     </div>
+                                     </div>
+                                     <span>Notes: </span>
+                                     <span class="text-highlight">${data.notes}</span>
+                                 </div>
+                             `,
+                             showCloseButton: true,
+                             showConfirmButton: false,
+                         });
+                     };
+                 }
+         
+                 containersArray.sort((a, b) => b.rating - a.rating);
+         
+                 containersArray.forEach(item => parent.appendChild(item.element));
+         
+                 if (window.refreshFilter) refreshFilter();
+             } catch (error) {
+                 console.error('Error loading hosts:', error);
+             }
+         }
+         
+         loadHosts();
+      </script>
+      <script>
+         document.addEventListener("DOMContentLoaded", function () {
+             const searchInput = document.getElementById("search-input");
+             const ramFilter = document.getElementById("ram-filter");
+             const storageFilter = document.getElementById("storage-filter");
+             const starFilter = document.getElementById("star-filter");
+             const coresFilter = document.getElementById("cores-filter");
+             const locationChecks = document.querySelectorAll(".location-check");
+         
+             const containers = () => document.querySelectorAll(".grid-container .container");
+         
+             function getRating(container) {
+                 const ratingElement = container.querySelector(".rating span");
+                 return ratingElement ? parseFloat(ratingElement.textContent.trim()) || 0 : 0;
+             }
+         
+             function parseValue(text) {
+                 const match = text.match(/(\d+(?:\.\d+)?)(\s*)(gb|tb)/i);
+                 if (!match) return 0;
+                 let value = parseFloat(match[1]);
+                 return match[3].toLowerCase() === "tb" ? value * 1024 : value;
+             }
+         
+             function getSelectedLocations() {
+                 return Array.from(document.querySelectorAll(".location-check:checked")).map(cb => cb.value.toLowerCase());
+             }
+         
+             function updateLocationDropdownText() {
+                 const selectedCount = document.querySelectorAll(".location-check:checked").length;
+                 document.getElementById("locationDropdown").textContent = selectedCount > 0 ? `${selectedCount} Selected` : "Select Locations";
+             }
+         
+             function filterHosts() {
+                 const allContainers = Array.from(containers()).sort((a, b) => {
+             const ratingA = parseFloat(a.dataset.rating || 0);
+             const ratingB = parseFloat(b.dataset.rating || 0);
+             return ratingB - ratingA;
+         });
+         
+                 const searchTerm = searchInput.value.trim().toLowerCase();
+                 const minRAM = parseFloat(ramFilter.value) || 0;
+                 const minStorage = parseFloat(storageFilter.value) || 0;
+                 const minStars = parseFloat(starFilter.value) || 0;
+                 const minCores = parseFloat(coresFilter.value) || 0;
+                 const selectedLocations = getSelectedLocations();
+         
+                 allContainers.forEach(container => {
+                     const ramText = container.querySelector(".text-line:nth-child(2) .text-highlight")?.textContent.toLowerCase() || "";
+                     const storageText = container.querySelector(".text-line:nth-child(3) .text-highlight")?.textContent.toLowerCase() || "";
+                     const titleText = container.querySelector(".title")?.textContent.toLowerCase() || "";
+                     const locationText = container.dataset.location.toLowerCase();
+                     const rating = getRating(container);
+                     const cores = parseFloat(container.dataset.cores || 0);
+         
+                     const ramValue = parseValue(ramText);
+                     const storageValue = parseValue(storageText);
+         
+                     let visible = true;
+         
+                     if (searchTerm && !titleText.includes(searchTerm)) visible = false;
+                     if (visible && ramValue < minRAM) visible = false;
+                     if (visible && storageValue < minStorage) visible = false;
+                     if (visible && rating < minStars) visible = false;
+                     if (visible && cores < minCores) visible = false;
+                     if (visible && selectedLocations.length > 0) {
+                         visible = selectedLocations.some(loc => locationText.includes(loc));
+                     }
+         
+                     container.style.display = visible ? "block" : "none";
+                 });
+             }
+         
+             [searchInput, ramFilter, storageFilter, starFilter, coresFilter].forEach(el => {
+                 el.addEventListener("input", filterHosts);
+                 el.addEventListener("change", filterHosts);
+             });
+         
+             locationChecks.forEach(cb => {
+                 cb.addEventListener("change", () => {
+                     updateLocationDropdownText();
+                     filterHosts();
+                 });
+             });
+         
+             updateLocationDropdownText();
+         });
       </script>
       </div>
       </div>
